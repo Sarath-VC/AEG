@@ -1,5 +1,5 @@
 import PyPDF2
-import goto
+#import goto
 import nltk
 import json
 import pdfplumber
