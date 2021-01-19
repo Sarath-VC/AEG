@@ -1,0 +1,72 @@
+{
+    "essay_scoring": {
+        "best": [
+            "tf-idf",
+            "stop word"
+        ],
+        "average": [
+            "bag of word",
+            "algorithm",
+            "tokenization"
+        ],
+        "common": [
+            "essay",
+            "grading",
+            "word",
+            "grade"
+        ]
+    },
+    "history": {
+        "best": [
+            "gandiji"
+        ],
+        "average": [
+            "1945",
+            "freedom",
+            "people"
+        ],
+        "common": [
+            "independance",
+            "fight"
+        ]
+    },
+    "computer": {
+        "best": [
+            "ic",
+            "transistor",
+            "mutitasking",
+            "ram",
+            "rom",
+            "register",
+            "vaccum tube",
+            "bios",
+            "multiprocessing",
+            "cpu",
+            "control unit",
+            "alu",
+            "bit",
+            "integrated circuit",
+            "instruction",
+            "main memory",
+            "data",
+            "information"
+        ],
+        "average": [
+            "program",
+            "input",
+            "output",
+            "chip",
+            "storage"
+        ],
+        "common": [
+            "computer",
+            "machine",
+            "system",
+            "hardware",
+            "calculate",
+            "process",
+            "software",
+            "memory"
+        ]
+    }
+}

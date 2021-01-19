@@ -1,0 +1,6 @@
+#!D:\AEG\aegenv\Scripts\python.exe
+
+import sys
+
+from language_check import main
+sys.exit(main.main())
