@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1528d0a-2183-4dac-bce6-f350212de0af" name="Default Changelist" comment="" />
+    <list default="true" id="a1528d0a-2183-4dac-bce6-f350212de0af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Uploads/200510054391_AdmitCard.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,11 +54,15 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../automated-essay-grader-master" />
@@ -202,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611935483976</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="folder changed deleted aeg sub folder and add the content to main directory">
+      <created>1611935705531</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611935705531</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -215,14 +229,15 @@
     </todo-panel>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="folder changed deleted aeg sub folder and add the content to main directory" />
     <option name="LAST_COMMIT_MESSAGE" value="folder changed deleted aeg sub folder and add the content to main directory" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="258" y="1" key="CommitChangelistDialog2" timestamp="1611935462569">
+    <state x="258" y="1" key="CommitChangelistDialog2" timestamp="1611935704422">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="258" y="1" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1611935462569" />
+    <state x="258" y="1" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1611935704422" />
     <state width="757" height="223" key="GridCell.Tab.0.bottom" timestamp="1611935303664">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -239,9 +254,17 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="757" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1611935303664" />
-    <state x="277" y="77" key="SettingsEditor" timestamp="1611935637403">
+    <state x="277" y="77" key="SettingsEditor" timestamp="1611935934357">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1611935637403" />
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1611935934357" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1611936274801">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1611936274801" />
+    <state x="578" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611935691526">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="578" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1611935691526" />
   </component>
 </project>
