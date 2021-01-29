@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1528d0a-2183-4dac-bce6-f350212de0af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Reports/K1_computer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reports/W1_Computer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reports/essay_scoring/200510054391_AdmitCard.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reports/mca2_aes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uploads/Evaluated/200510054391_AdmitCard.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uploads/Evaluated/A10_aes.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uploads/PEvaluated/200510054391_AdmitCard.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uploads/PEvaluated/A10_aes.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uploads/java exan lenan p thomas - lenan views.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/font/DejaVuSans-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/font/DejaVuSans-BoldOblique.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/font/DejaVuSans-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/font/DejaVuSans-Oblique.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/font/DejaVuSans.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/font/DejaVuSansCondensed-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/font/DejaVuSansCondensed-BoldOblique.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/font/DejaVuSansCondensed-Oblique.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/font/DejaVuSansCondensed.cw127.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/font/DejaVuSansCondensed.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/font/DejaVuSansCondensed.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/font/DejaVuSansMono-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/font/DejaVuSansMono-BoldOblique.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/font/DejaVuSansMono-Oblique.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/font/DejaVuSansMono.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/essay_scoring/A10_aes.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/essay_scoring/A10_aes.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uploads/200510054391_AdmitCard.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uploads/A10_aes.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.py" beforeDir="false" afterPath="$PROJECT_DIR$/home.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home2.py" beforeDir="false" afterPath="$PROJECT_DIR$/home2.py" afterDir="false" />
-    </list>
+    <list default="true" id="a1528d0a-2183-4dac-bce6-f350212de0af" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -230,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611935705531</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="upadeted fpdf files and add some fonts">
+      <created>1611949806967</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611949806967</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -245,37 +221,38 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="folder changed deleted aeg sub folder and add the content to main directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="folder changed deleted aeg sub folder and add the content to main directory" />
+    <MESSAGE value="upadeted fpdf files and add some fonts" />
+    <option name="LAST_COMMIT_MESSAGE" value="upadeted fpdf files and add some fonts" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="258" y="1" key="CommitChangelistDialog2" timestamp="1611935704422">
+    <state x="258" y="1" key="CommitChangelistDialog2" timestamp="1611949805036">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="258" y="1" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1611935704422" />
-    <state width="1515" height="223" key="GridCell.Tab.0.bottom" timestamp="1611949633646">
+    <state x="258" y="1" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1611949805036" />
+    <state width="1515" height="223" key="GridCell.Tab.0.bottom" timestamp="1611950332468">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1611949633646" />
-    <state width="1515" height="223" key="GridCell.Tab.0.center" timestamp="1611949633646">
+    <state width="1515" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1611950332468" />
+    <state width="1515" height="223" key="GridCell.Tab.0.center" timestamp="1611950332468">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1611949633646" />
-    <state width="1515" height="223" key="GridCell.Tab.0.left" timestamp="1611949633630">
+    <state width="1515" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1611950332468" />
+    <state width="1515" height="223" key="GridCell.Tab.0.left" timestamp="1611950332468">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1611949633630" />
-    <state width="1515" height="223" key="GridCell.Tab.0.right" timestamp="1611949633646">
+    <state width="1515" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1611950332468" />
+    <state width="1515" height="223" key="GridCell.Tab.0.right" timestamp="1611950332468">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1611949633646" />
+    <state width="1515" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1611950332468" />
     <state x="277" y="77" key="SettingsEditor" timestamp="1611948667691">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1611948667691" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1611936274801">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1611949964147">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1611936274801" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1611949964147" />
     <state x="578" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611935691526">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
