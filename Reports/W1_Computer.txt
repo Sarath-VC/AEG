@@ -1,0 +1,1888 @@
+Line 1, column 9, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+Computer   A computer is a machine that can be inst...
+        ^^^
+Line 2, column 95, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...y out sequences of arithmetic or logical  operations automatically via computer pr...
+                                           ^^
+Line 3, column 95, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ern computers have the ability to follow  generalized sets of operations, called p...
+                                           ^^
+Line 4, column 95, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... programs enable computers to perform an  extremely wide range of tasks. A "comple...
+                                           ^^
+Line 5, column 34, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...rm an  extremely wide range of tasks. A "complete" computer including the hardwar...
+                                           ^
+Line 5, column 43, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...tremely wide range of tasks. A "complete" computer including the hardware, the op...
+                                           ^
+Line 5, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...uding the hardware, the operating system  (main software), and peripheral equipmen...
+                                           ^^
+Line 6, column 65, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...ipheral equipment required and used for "full" operation can be referred to as  a...
+                                           ^
+Line 6, column 70, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...al equipment required and used for "full" operation can be referred to as  a comp...
+                                           ^
+Line 6, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...r "full" operation can be referred to as  a computer system. This term may as well...
+                                           ^^
+Line 7, column 97, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...roup of computers that are connected and  work together, in particular a computer ...
+                                           ^^
+Line 8, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...r cluster. Computers are used as control  systems for a wide variety of industrial...
+                                           ^^
+Line 9, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...es. This includes simple special purpose  devices like microwave ovens and remote ...
+                                           ^^
+Line 10, column 96, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ry devices such as industrial robots and  computer-aided design, and also general ...
+                                           ^^
+Line 11, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ke personal computers and mobile devices  such as smart phones. The Internet is ru...
+                                           ^^
+Line 12, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...t connects hundreds of millions of other  computers and their users.   Early compu...
+                                           ^^
+Line 13, column 28, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ns of other  computers and their users.   Early computers were only conceived as c...
+                                           ^^
+Line 14, column 95, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ices. Since ancient times, simple manual  devices like the abacus aided people in ...
+                                           ^^
+Line 15, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...Early in the Industrial Revolution, some  mechanical devices were built to automat...
+                                           ^^
+Line 16, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...such as guiding patterns for looms. More  sophisticated electrical machines did sp...
+                                           ^^
+Line 17, column 39, Rule ID: DID_BASEFORM[1]
+Message: The verb 'did' requires the base form of the verb: 'specialize'
+Suggestion: specialize
+...  sophisticated electrical machines did specialized analog calculations in the early 20th c...
+                                           ^^^^^^^^^^^
+Line 17, column 107, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ons in the early 20th century. The first  digital electronic calculating machines ...
+                                           ^^
+Line 18, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ng World War II. The first semiconductor  transistors in the late 1940s were follo...
+                                           ^^
+Line 19, column 52, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: silicon based
+... in the late 1940s were followed by the siliconbased MOSFET (MOS transistor) and monolithic ...
+                                           ^^^^^^^^^^^^
+Line 19, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...d MOSFET (MOS transistor) and monolithic  integrated circuit (IC) chip technologie...
+                                           ^^
+Line 20, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...s, leading to the microprocessor and the  microcomputer revolution in the 1970s. T...
+                                           ^^
+Line 21, column 40, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE
+Message: Three successive sentences begin with the same word. Reword the sentence or use a thesaurus to find a synonym.
+... microcomputer revolution in the 1970s. The speed, power and versatility of compute...
+                                           ^^^
+Line 21, column 95, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...r and versatility of computers have been  increasing dramatically ever since then,...
+                                           ^^
+Line 22, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...or counts increasing at a rapid pace (as  predicted by Moore's law), leading to th...
+                                           ^^
+Line 23, column 96, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ution during the late 20th to early 21st  centuries.Conventionally, a modern compu...
+                                           ^^
+Line 24, column 11, Rule ID: SENTENCE_WHITESPACE
+Message: Add a space between sentences
+Suggestion:  Conventionally
+... the late 20th to early 21st  centuries.Conventionally, a modern computer consists of at least...
+                                           ^^^^^^^^^^^^^^
+Line 24, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...east one processing element, typically a  central processing unit (CPU) in the for...
+                                           ^^
+Line 25, column 48, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+... processing unit (CPU) in the form of a metaloxide-semiconductor (MOS) microprocessor, along  with some ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+Line 25, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...emiconductor (MOS) microprocessor, along  with some type of computer memory, typic...
+                                           ^^
+Line 26, column 92, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...miconductor memory chips. The processing  element carries out arithmetic and logic...
+                                           ^^
+Line 27, column 104, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...quencing and control unit can change the  order of operations in response to store...
+                                           ^^
+Line 28, column 96, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...Peripheral devices include input devices  (keyboards, mice, joystick, etc.), outpu...
+                                           ^^
+Line 29, column 102, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...reens, printers, etc.), and input/output  devices that perform both functions (e.g...
+                                           ^^
+Line 30, column 95, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...a touchscreen). Peripheral devices allow  information to be retrieved from an exte...
+                                           ^^
+Line 31, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ey enable the result of operations to be  saved and retrieved. First computing dev...
+                                           ^^
+Line 32, column 96, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...bage, an English mechanical engineer and  polymath, originated the concept of a pr...
+                                           ^^
+Line 33, column 77, Rule ID: EN_UNPAIRED_BRACKETS
+Message: Unpaired symbol: '"' seems to be missing
+...a programmable computer. Considered the "father of the  computer”, he conceptuali...
+                                           ^
+Line 33, column 77, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...a programmable computer. Considered the "father of the  computer”, he conceptuali...
+                                           ^
+Line 33, column 91, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... computer. Considered the "father of the  computer”, he conceptualized and invente...
+                                           ^^
+Line 34, column 9, Rule ID: EN_UNPAIRED_BRACKETS
+Message: Unpaired symbol: '“' seems to be missing
+... Considered the "father of the  computer”, he conceptualized and invented the fir...
+                                           ^
+Line 35, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... to aid in navigational calculations, in  1833 he realized that a much more genera...
+                                           ^^
+Line 36, column 54, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Analytic; Analytically; Analogical
+...zed that a much more general design, an Analytical Engine, was possible. The input of  pro...
+                                           ^^^^^^^^^^
+Line 36, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...tical Engine, was possible. The input of  programs and data was to be provided to ...
+                                           ^^
+Line 37, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...unched cards, a method being used at the  time to direct mechanical looms such as ...
+                                           ^^
+Line 38, column 96, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...om. For output, the machine would have a  printer, a curve plotter and a bell. The...
+                                           ^^
+Line 39, column 102, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...e able to punch numbers onto cards to be  read in later. The Engine incorporated a...
+                                           ^^
+Line 40, column 207, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...st design for a general-purpose computer  that could be described in modern terms ...
+                                           ^^
+Line 41, column 102, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...nalog computers During the first half of  the 20th century, many scientific comput...
+                                           ^^
+Line 42, column 96, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...met by increasingly sophisticated analog  computers, which used a direct mechanica...
+                                           ^^
+Line 43, column 92, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ical model of the problem as a basis for  computation. However, these were not pro...
+                                           ^^
+Line 44, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ally lacked the versatility and accuracy  of modern digital computers. The first m...
+                                           ^^
+Line 45, column 102, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... was a tide-predicting machine, invented  by Sir William Thomson in 1872. The diff...
+                                           ^^
+Line 46, column 50, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: analyses; analyzer
+...lliam Thomson in 1872. The differential analyser, a mechanical analog computer designed ...
+                                           ^^^^^^^^
+Line 46, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...a mechanical analog computer designed to  solve differential equations by integrat...
+                                           ^^
+Line 47, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...d-disc mechanisms, was conceptualized in  1876 by James Thomson, the brother of th...
+                                           ^^
+Line 48, column 92, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...us Lord Kelvin. Vacuum tubes and digital  electronic circuits Purely electronic ci...
+                                           ^^
+Line 49, column 90, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ments soon replaced their mechanical and  electromechanical equivalents, at the sa...
+                                           ^^
+Line 50, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...nts soon replaced their mechanical and  electromechanical equivalents, at the same time that digi...
+                                           ^^^^^^^^^^^^^^^^^
+Line 50, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...alculation replaced analog. The engineer  Tommy Flowers, working at the Post Offic...
+                                           ^^
+Line 51, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...in London in the 1930s, began to explore  the possible use of electronics for the ...
+                                           ^^
+Line 52, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... Experimental equipment that he built in  1934 went into operation five years late...
+                                           ^^
+Line 53, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...n of the telephone exchange network into  an electronic data processing system, us...
+                                           ^^
+Line 54, column 95, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...of vacuum tubes. In the US, John Vincent  Atanasoff and Clifford E. Berry of Iowa ...
+                                           ^^
+Line 55, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+... vacuum tubes. In the US, John Vincent  Atanasoff and Clifford E. Berry of Iowa State Uni...
+                                           ^^^^^^^^^
+Line 55, column 83, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...ate University developed and tested the Atanasoff–Berry  Computer (ABC) in 1942, the firs...
+                                           ^^^^^^^^^
+Line 55, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...developed and tested the Atanasoff–Berry  Computer (ABC) in 1942, the first "autom...
+                                           ^^
+Line 56, column 35, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...erry  Computer (ABC) in 1942, the first "automatic electronic digital computer". ...
+                                           ^
+Line 56, column 73, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...t "automatic electronic digital computer". This design was also all- electronic a...
+                                           ^
+Line 57, column 102, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ixed in a mechanically rotating drum for  memory. Modern computers Concept of mode...
+                                           ^^
+Line 58, column 93, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...The principle of the modern computer was  proposed by Alan Turing in his seminal 1...
+                                           ^^
+Line 59, column 55, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Commutable
+...an Turing in his seminal 1936 paper, On Computable Numbers. Turing proposed a simple  devi...
+                                           ^^^^^^^^^^
+Line 59, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...utable Numbers. Turing proposed a simple  device that he called "Universal Computi...
+                                           ^^
+Line 60, column 23, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...roposed a simple  device that he called "Universal Computing machine" and that is...
+                                           ^
+Line 60, column 51, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...t he called "Universal Computing machine" and that is now known as a universal Tu...
+                                           ^
+Line 60, column 96, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... that is now known as a universal Turing  machine. He proved that such a machine i...
+                                           ^^
+Line 61, column 81, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: commutable
+...s capable of computing anything that is computable by  executing instructions (program) st...
+                                           ^^^^^^^^^^
+Line 61, column 94, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...computing anything that is computable by  executing instructions (program) stored ...
+                                           ^^
+Line 62, column 94, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...wing the machine to be programmable. The  fundamental concept of Turing's design i...
+                                           ^^
+Line 63, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...where all the instructions for computing  are stored in memory. Von Neumann acknow...
+                                           ^^
+Line 64, column 23, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: On; Won; Non; Son; Van; Ton; Ion; Jon; Con; Avon; Vow; Mon; Lon; VOA; Eon; Ron; Don; Hon; ON; Vol; Yon; V on
+...ns for computing  are stored in memory. Von Neumann acknowledged that the central c...
+                                           ^^^
+Line 64, column 27, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Newman
+...or computing  are stored in memory. Von Neumann acknowledged that the central concept o...
+                                           ^^^^^^^
+Line 64, column 95, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...e central concept of the modern computer  was due to this paper. Turing machines a...
+                                           ^^
+Line 65, column 94, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...y a central object of study in theory of  computation. Except for the limitations ...
+                                           ^^
+Line 66, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...nite memory stores, modern computers are  said to be Turing-complete, which is to ...
+                                           ^^
+Line 67, column 102, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...thm execution capability equivalent to a  universal Turing machine. Stored program...
+                                           ^^
+Line 68, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...achines had fixed programs. Changing its  function required the re-wiring and re-s...
+                                           ^^
+Line 69, column 96, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...he machine.[30] With the proposal of the  storedprogram computer this changed. A s...
+                                           ^^
+Line 70, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: stored program
+... machine.[30] With the proposal of the  storedprogram computer this changed. A stored-program...
+                                           ^^^^^^^^^^^^^
+Line 70, column 97, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...mputer includes by design an instruction  set and can store in memory a set of ins...
+                                           ^^
+Line 71, column 104, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...hat details the computation. Transistors  Compared to vacuum tubes, transistors ha...
+                                           ^^
+Line 72, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...they are smaller, and require less power  than vacuum tubes, so give off less heat...
+                                           ^^
+Line 73, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...tors were much more reliable than vacuum  tubes and had longer, indefinite, servic...
+                                           ^^
+Line 74, column 105, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...omputers could contain tens of thousands  of binary logic circuits in a relatively...
+                                           ^^
+Line 75, column 108, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...rly junction transistors were relatively  bulky devices that were difficult to man...
+                                           ^^
+Line 76, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...roduction basis, which limited them to a  number of specialised applications. Inte...
+                                           ^^
+Line 77, column 11, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: specialized
+...sis, which limited them to a  number of specialised applications. Integrated circuits The i...
+                                           ^^^^^^^^^^^
+Line 77, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...idea of the integrated circuit was first  conceived by a radar scientist working f...
+                                           ^^
+Line 78, column 93, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Defense
+... Radar Establishment of the Ministry of Defence,  Geoffrey W.A. Dummer. Dummer presente...
+                                           ^^^^^^^
+Line 78, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...stablishment of the Ministry of Defence,  Geoffrey W.A. Dummer. Dummer presented t...
+                                           ^^
+Line 79, column 15, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Summer; Drummer; Dimmer; Hummer; Bummer; Dumber; Dumper; Mummer; Rummer
+...the Ministry of Defence,  Geoffrey W.A. Dummer. Dummer presented the first public desc...
+                                           ^^^^^^
+Line 79, column 23, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Summer; Drummer; Dimmer; Hummer; Bummer; Dumber; Dumper; Mummer; Rummer
+...stry of Defence,  Geoffrey W.A. Dummer. Dummer presented the first public description ...
+                                           ^^^^^^
+Line 79, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...cription of an integrated circuit at the  Symposium on Progress in Quality Electro...
+                                           ^^
+Line 80, column 94, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...s in Washington, D.C. on 7 May 1952. The  development of the MOS integrated circui...
+                                           ^^
+Line 81, column 199, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... computers. While the subject of exactly  which device was the first microprocesso...
+                                           ^^
+Line 82, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ly due to lack of agreement on the exact  definition of the term "microprocessor",...
+                                           ^^
+Line 83, column 24, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...nt on the exact  definition of the term "microprocessor", it is largely undispute...
+                                           ^
+Line 83, column 39, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...  definition of the term "microprocessor", it is largely undisputed that the firs...
+                                           ^
+Line 83, column 108, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...hat the first single-chip microprocessor  was the Intel 4004, [88] designed and re...
+                                           ^^
+Line 84, column 60, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Fagin; Fagging
+... [88] designed and realized by Federico Faggin with his silicon-gate MOS IC  technolog...
+                                           ^^^^^^
+Line 84, column 95, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...rico Faggin with his silicon-gate MOS IC  technology,[86] along with Ted Hoff, Mas...
+                                           ^^
+Line 85, column 11, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Put a space after the comma
+Suggestion: , [
+...with his silicon-gate MOS IC  technology,[86] along with Ted Hoff, Masatoshi Shima...
+                                           ^^
+Line 85, column 38, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...C  technology,[86] along with Ted Hoff, Masatoshi Shima and Stanley Mazor at Intel. [89][...
+                                           ^^^^^^^^^
+Line 85, column 48, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Shiva; Shim; Shims; Shi ma
+...ogy,[86] along with Ted Hoff, Masatoshi Shima and Stanley Mazor at Intel. [89][90] In...
+                                           ^^^^^
+Line 85, column 66, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Major; Mayor; Manor; Razor
+...h Ted Hoff, Masatoshi Shima and Stanley Mazor at Intel. [89][90] In the early  1970s,...
+                                           ^^^^^
+Line 85, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ey Mazor at Intel. [89][90] In the early  1970s, MOS IC technology enabled the int...
+                                           ^^
+Line 86, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...10,000 transistors on a single chip.[59]  System on a Chip (SoCs) are complete com...
+                                           ^^
+Line 87, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...p (or chip) the size of a coin.[91] They  may or may not have integrated RAM and f...
+                                           ^^
+Line 88, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ot integrated, The RAM is usually placed  directly above (known as Package on pack...
+                                           ^^
+Line 89, column 102, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... opposite side of the circuit board) the  SoC, and the flash memory is usually pla...
+                                           ^^
+Line 90, column 106, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+..., this all done to improve data transfer  speeds, as the data signals don't have t...
+                                           ^^
+Line 91, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ces. Since ENIAC in 1945, computers have  advanced enormously, with modern SoCs (S...
+                                           ^^
+Line 92, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...agon 865) being the size of a coin while  also being hundreds of thousands of time...
+                                           ^^
+Line 93, column 105, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...AC, integrating billions of transistors,  and consuming only a few watts of power....
+                                           ^^
+Line 94, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...e computer has four main components: the  arithmetic logic unit (ALU), the control...
+                                           ^^
+Line 95, column 106, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...e input and output devices (collectively  termed I/O). These parts are interconnec...
+                                           ^^
+Line 96, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... made of groups of wires. Inside each of  these parts are thousands to trillions o...
+                                           ^^
+Line 97, column 107, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...s which can be turned off or on by means  of an electronic switch. Each circuit re...
+                                           ^^
+Line 98, column 110, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... of information so that when the circuit  is on it represents a "1", and when off ...
+                                           ^^
+Line 99, column 23, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...when the circuit  is on it represents a "1", and when off it represents a "0" (in...
+                                           ^
+Line 99, column 25, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...en the circuit  is on it represents a "1", and when off it represents a "0" (in p...
+                                           ^
+Line 99, column 57, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...nts a "1", and when off it represents a "0" (in positive logic representation). T...
+                                           ^
+Line 99, column 59, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...s a "1", and when off it represents a "0" (in positive logic representation). The...
+                                           ^
+Line 99, column 109, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...tive logic representation). The circuits  are arranged in logic gates so that one ...
+                                           ^^
+Line 100, column 97, Rule ID: ENGLISH_WORD_REPEAT_RULE
+Message: Possible typo: you repeated a word
+Suggestion: of
+...ircuits may control the state of one or more of  the other circuits. Input devices When...
+                                           ^^^^^^^
+Line 100, column 104, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... may control the state of one or more of  the other circuits. Input devices When u...
+                                           ^^
+Line 101, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...t to the computer with the help of input  devices, the data is processed and sent ...
+                                           ^^
+Line 102, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...he input devices may be hand-operated or  automated. The act of processing is main...
+                                           ^^
+Line 103, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...CPU. Some examples of input devices are:   Computer keyboardb'\xef\x82\xb7'  Digital camerab'\xef\x82\xb7'  Dig...
+                                           ^^^
+Line 104, column 10, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: keyboard; keyboards
+...amples of input devices are:   Computer keyboardb'\xef\x82\xb7'  Digital camerab'\xef\x82\xb7'  Digital videob'\xef\x82\xb7'  Graph...
+                                           ^^^^^^^^^
+Line 104, column 19, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... input devices are:   Computer keyboardb'\xef\x82\xb7'  Digital camerab'\xef\x82\xb7'  Digital videob'\xef\x82\xb7'  Graphic...
+                                           ^^
+Line 104, column 29, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: camera; cameras
+...ices are:   Computer keyboardb'\xef\x82\xb7'  Digital camerab'\xef\x82\xb7'  Digital videob'\xef\x82\xb7'  Graphics tabletb'\xef\x82\xb7'  Imag...
+                                           ^^^^^^^
+Line 104, column 36, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...e:   Computer keyboardb'\xef\x82\xb7'  Digital camerab'\xef\x82\xb7'  Digital videob'\xef\x82\xb7'  Graphics tabletb'\xef\x82\xb7'  Image ...
+                                           ^^
+Line 104, column 46, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: video; videos
+...ter keyboardb'\xef\x82\xb7'  Digital camerab'\xef\x82\xb7'  Digital videob'\xef\x82\xb7'  Graphics tabletb'\xef\x82\xb7'  Image scannerb'\xef\x82\xb7'  Joys...
+                                           ^^^^^^
+Line 104, column 52, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...yboardb'\xef\x82\xb7'  Digital camerab'\xef\x82\xb7'  Digital videob'\xef\x82\xb7'  Graphics tabletb'\xef\x82\xb7'  Image scannerb'\xef\x82\xb7'  Joysti...
+                                           ^^
+Line 104, column 63, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: tablet; tablets
+...gital camerab'\xef\x82\xb7'  Digital videob'\xef\x82\xb7'  Graphics tabletb'\xef\x82\xb7'  Image scannerb'\xef\x82\xb7'  Joystickb'\xef\x82\xb7'   Microphone...
+                                           ^^^^^^^
+Line 104, column 70, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...amerab'\xef\x82\xb7'  Digital videob'\xef\x82\xb7'  Graphics tabletb'\xef\x82\xb7'  Image scannerb'\xef\x82\xb7'  Joystickb'\xef\x82\xb7'   Microphoneb'\xef\x82\xb7' ...
+                                           ^^
+Line 104, column 78, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: scanner; scanners
+...Digital videob'\xef\x82\xb7'  Graphics tabletb'\xef\x82\xb7'  Image scannerb'\xef\x82\xb7'  Joystickb'\xef\x82\xb7'   Microphoneb'\xef\x82\xb7'  Mouseb'\xef\x82\xb7'  Overl...
+                                           ^^^^^^^^
+Line 104, column 86, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...videob'\xef\x82\xb7'  Graphics tabletb'\xef\x82\xb7'  Image scannerb'\xef\x82\xb7'  Joystickb'\xef\x82\xb7'   Microphoneb'\xef\x82\xb7'  Mouseb'\xef\x82\xb7'  Overlay...
+                                           ^^
+Line 104, column 88, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Joystick; Joysticks
+...deob'\xef\x82\xb7'  Graphics tabletb'\xef\x82\xb7'  Image scannerb'\xef\x82\xb7'  Joystickb'\xef\x82\xb7'   Microphoneb'\xef\x82\xb7'  Mouseb'\xef\x82\xb7'  Overlay keyboard...
+                                           ^^^^^^^^^
+Line 104, column 97, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...phics tabletb'\xef\x82\xb7'  Image scannerb'\xef\x82\xb7'  Joystickb'\xef\x82\xb7'   Microphoneb'\xef\x82\xb7'  Mouseb'\xef\x82\xb7'  Overlay keyboardb'\xef\x82\xb7'  ...
+                                           ^^^
+Line 105, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Microphone; Microphones
+...cs tabletb'\xef\x82\xb7'  Image scannerb'\xef\x82\xb7'  Joystickb'\xef\x82\xb7'   Microphoneb'\xef\x82\xb7'  Mouseb'\xef\x82\xb7'  Overlay keyboardb'\xef\x82\xb7'  Real-time c...
+                                           ^^^^^^^^^^^
+Line 105, column 12, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... Image scannerb'\xef\x82\xb7'  Joystickb'\xef\x82\xb7'   Microphoneb'\xef\x82\xb7'  Mouseb'\xef\x82\xb7'  Overlay keyboardb'\xef\x82\xb7'  Real-time clo...
+                                           ^^
+Line 105, column 14, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Mouse; Mouser; Mouses; Moused
+...mage scannerb'\xef\x82\xb7'  Joystickb'\xef\x82\xb7'   Microphoneb'\xef\x82\xb7'  Mouseb'\xef\x82\xb7'  Overlay keyboardb'\xef\x82\xb7'  Real-time clockb'\xef\x82\xb7'  T...
+                                           ^^^^^^
+Line 105, column 20, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...cannerb'\xef\x82\xb7'  Joystickb'\xef\x82\xb7'   Microphoneb'\xef\x82\xb7'  Mouseb'\xef\x82\xb7'  Overlay keyboardb'\xef\x82\xb7'  Real-time clockb'\xef\x82\xb7'  Tra...
+                                           ^^
+Line 105, column 30, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: keyboard; keyboards
+...oystickb'\xef\x82\xb7'   Microphoneb'\xef\x82\xb7'  Mouseb'\xef\x82\xb7'  Overlay keyboardb'\xef\x82\xb7'  Real-time clockb'\xef\x82\xb7'  Trackballb'\xef\x82\xb7'  Touchscr...
+                                           ^^^^^^^^^
+Line 105, column 39, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...  Microphoneb'\xef\x82\xb7'  Mouseb'\xef\x82\xb7'  Overlay keyboardb'\xef\x82\xb7'  Real-time clockb'\xef\x82\xb7'  Trackballb'\xef\x82\xb7'  Touchscree...
+                                           ^^
+Line 105, column 51, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: clock; clocks
+...b'\xef\x82\xb7'  Mouseb'\xef\x82\xb7'  Overlay keyboardb'\xef\x82\xb7'  Real-time clockb'\xef\x82\xb7'  Trackballb'\xef\x82\xb7'  Touchscreenb'\xef\x82\xb7' Output device...
+                                           ^^^^^^
+Line 105, column 57, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...seb'\xef\x82\xb7'  Overlay keyboardb'\xef\x82\xb7'  Real-time clockb'\xef\x82\xb7'  Trackballb'\xef\x82\xb7'  Touchscreenb'\xef\x82\xb7' Output devices ...
+                                           ^^
+Line 105, column 59, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Trackball; Trackballs
+...b'\xef\x82\xb7'  Overlay keyboardb'\xef\x82\xb7'  Real-time clockb'\xef\x82\xb7'  Trackballb'\xef\x82\xb7'  Touchscreenb'\xef\x82\xb7' Output devices  The means...
+                                           ^^^^^^^^^^
+Line 105, column 69, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... keyboardb'\xef\x82\xb7'  Real-time clockb'\xef\x82\xb7'  Trackballb'\xef\x82\xb7'  Touchscreenb'\xef\x82\xb7' Output devices  The means t...
+                                           ^^
+Line 105, column 71, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Touchscreen; Touchscreens
+...eyboardb'\xef\x82\xb7'  Real-time clockb'\xef\x82\xb7'  Trackballb'\xef\x82\xb7'  Touchscreenb'\xef\x82\xb7' Output devices  The means through which...
+                                           ^^^^^^^^^^^^
+Line 105, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... Trackballb'\xef\x82\xb7'  Touchscreenb'\xef\x82\xb7' Output devices  The means through which computer gives o...
+                                           ^^
+Line 106, column 92, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...nown as output devices. Some examples of  output devices are:  Computer monitorb'\xef\x82\xb7'  ...
+                                           ^^
+Line 107, column 20, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...s. Some examples of  output devices are:  Computer monitorb'\xef\x82\xb7'  Printerb'\xef\x82\xb7'  PC speakerb'\xef\x82\xb7'...
+                                           ^^
+Line 107, column 31, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: monitor; monitors; monitory
+...mples of  output devices are:  Computer monitorb'\xef\x82\xb7'  Printerb'\xef\x82\xb7'  PC speakerb'\xef\x82\xb7'  Projectorb'\xef\x82\xb7'  Sou...
+                                           ^^^^^^^^
+Line 107, column 39, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...  output devices are:  Computer monitorb'\xef\x82\xb7'  Printerb'\xef\x82\xb7'  PC speakerb'\xef\x82\xb7'  Projectorb'\xef\x82\xb7'  Sound...
+                                           ^^
+Line 107, column 41, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Printer; Printers
+...output devices are:  Computer monitorb'\xef\x82\xb7'  Printerb'\xef\x82\xb7'  PC speakerb'\xef\x82\xb7'  Projectorb'\xef\x82\xb7'  Sound cardb'\xef\x82\xb7'  ...
+                                           ^^^^^^^^
+Line 107, column 49, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...evices are:  Computer monitorb'\xef\x82\xb7'  Printerb'\xef\x82\xb7'  PC speakerb'\xef\x82\xb7'  Projectorb'\xef\x82\xb7'  Sound cardb'\xef\x82\xb7'  Vi...
+                                           ^^
+Line 107, column 54, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: speaker; speakers
+...s are:  Computer monitorb'\xef\x82\xb7'  Printerb'\xef\x82\xb7'  PC speakerb'\xef\x82\xb7'  Projectorb'\xef\x82\xb7'  Sound cardb'\xef\x82\xb7'  Video cardb'\xef\x82\xb7'  ...
+                                           ^^^^^^^^
+Line 107, column 62, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...Computer monitorb'\xef\x82\xb7'  Printerb'\xef\x82\xb7'  PC speakerb'\xef\x82\xb7'  Projectorb'\xef\x82\xb7'  Sound cardb'\xef\x82\xb7'  Video cardb'\xef\x82\xb7'  Co...
+                                           ^^
+Line 107, column 64, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Projector; Projectors
+...mputer monitorb'\xef\x82\xb7'  Printerb'\xef\x82\xb7'  PC speakerb'\xef\x82\xb7'  Projectorb'\xef\x82\xb7'  Sound cardb'\xef\x82\xb7'  Video cardb'\xef\x82\xb7'  Control unit...
+                                           ^^^^^^^^^^
+Line 107, column 74, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...itorb'\xef\x82\xb7'  Printerb'\xef\x82\xb7'  PC speakerb'\xef\x82\xb7'  Projectorb'\xef\x82\xb7'  Sound cardb'\xef\x82\xb7'  Video cardb'\xef\x82\xb7'  Control unit T...
+                                           ^^
+Line 107, column 82, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: card; cards
+...rinterb'\xef\x82\xb7'  PC speakerb'\xef\x82\xb7'  Projectorb'\xef\x82\xb7'  Sound cardb'\xef\x82\xb7'  Video cardb'\xef\x82\xb7'  Control unit The control ...
+                                           ^^^^^
+Line 107, column 87, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...rb'\xef\x82\xb7'  PC speakerb'\xef\x82\xb7'  Projectorb'\xef\x82\xb7'  Sound cardb'\xef\x82\xb7'  Video cardb'\xef\x82\xb7'  Control unit The control un...
+                                           ^^
+Line 107, column 95, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: card; cards
+...peakerb'\xef\x82\xb7'  Projectorb'\xef\x82\xb7'  Sound cardb'\xef\x82\xb7'  Video cardb'\xef\x82\xb7'  Control unit The control unit (often c...
+                                           ^^^^^
+Line 107, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...rb'\xef\x82\xb7'  Projectorb'\xef\x82\xb7'  Sound cardb'\xef\x82\xb7'  Video cardb'\xef\x82\xb7'  Control unit The control unit (often cal...
+                                           ^^
+Line 108, column 96, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ystem or central controller) manages the  computer's various components; it reads ...
+                                           ^^
+Line 109, column 91, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...rets (decodes) the program instructions,  transforming them into control signals t...
+                                           ^^
+Line 110, column 105, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... of the computer.[95] Control systems in  advanced computers may change the order ...
+                                           ^^
+Line 111, column 98, Rule ID: SENTENCE_WHITESPACE
+Message: Add a space between sentences
+Suggestion:  A
+...ome instructions to improve performance.A  key component common to all CPUs is th...
+                                           ^
+Line 111, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...me instructions to improve performance.A  key component common to all CPUs is the ...
+                                           ^^
+Line 112, column 29, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: CPU; Opus; Pus; Cps; CPU s
+...formance.A  key component common to all CPUs is the program counter, a special memor...
+                                           ^^^^
+Line 112, column 97, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... a special memory cell (a register) that  keeps track of which location in memory ...
+                                           ^^
+Line 113, column 81, Rule ID: SENTENCE_WHITESPACE
+Message: Add a space between sentences
+Suggestion:  The
+...the next instruction is to be read from.The control system's  function is as follow...
+                                           ^^^
+Line 113, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... is to be read from.The control system's  function is as follows—note that this is...
+                                           ^^
+Line 114, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...cription, and some of these steps may be  performed concurrently or in a different...
+                                           ^^
+Line 115, column 102, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...he type of CPU: 1. Read the code for the  next instruction from the cell indicated...
+                                           ^^
+Line 116, column 102, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...er. 2. Decode the numerical code for the  instruction into a set of commands or si...
+                                           ^^
+Line 117, column 102, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... other systems. 3. Increment the program  counter so it points to the next instruc...
+                                           ^^
+Line 118, column 107, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...a the instruction requires from cells in  memory (or perhaps from an input device)...
+                                           ^^
+Line 119, column 104, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...required data is typically stored within  the instruction code. 5. Provide the nec...
+                                           ^^
+Line 120, column 109, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ister. 6. If the instruction requires an  ALU or specialized hardware to complete,...
+                                           ^^
+Line 122, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ly) just another set of memory cells, it  can be changed by calculations done in t...
+                                           ^^
+Line 123, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...0 to the program counter would cause the  next instruction to be read from a place...
+                                           ^^
+Line 124, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ther down the program. Instructions that  modify the program counter are often kno...
+                                           ^^
+Line 125, column 47, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+... the program counter are often known as "jumps" and allow for loops (instructions...
+                                           ^
+Line 125, column 53, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...rogram counter are often known as "jumps" and allow for loops (instructions that ...
+                                           ^
+Line 125, column 97, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...d allow for loops (instructions that are  repeated by the computer) and often cond...
+                                           ^^
+Line 127, column 108, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ocess an instruction is in itself like a  short computer program, and indeed, in s...
+                                           ^^
+Line 128, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...PU designs, there is another yet smaller  computer called a microsequencer, which ...
+                                           ^^
+Line 129, column 19, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: micro sequencer
+... another yet smaller  computer called a microsequencer, which runs a microcode program that ca...
+                                           ^^^^^^^^^^^^^^
+Line 129, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ogram that causes all of these events to  happen. Central processing unit (CPU) Th...
+                                           ^^
+Line 130, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...nd registers are collectively known as a  central processing unit (CPU). Early CPU...
+                                           ^^
+Line 131, column 38, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: CPU; Opus; Pus; Cps; CPU s
+...a  central processing unit (CPU). Early CPUs were composed of many separate componen...
+                                           ^^^^
+Line 131, column 60, Rule ID: NUMEROUS_DIFFERENT[1]
+Message: Use simply 'many'.
+Suggestion: many
+...unit (CPU). Early CPUs were composed of many separate components. Since the  1970s, CPUs have...
+                                           ^^^^^^^^^^^^^
+Line 131, column 95, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...d of many separate components. Since the  1970s, CPUs have typically been construc...
+                                           ^^
+Line 132, column 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: CPU; Opus; Pus; Cps; CPU s
+... separate components. Since the  1970s, CPUs have typically been constructed on a si...
+                                           ^^^^
+Line 132, column 93, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...gle MOS integrated circuit chip called a  microprocessor. Arithmetic logic unit (A...
+                                           ^^
+Line 133, column 104, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...of performing two classes of operations:  arithmetic and logic. The set of arithme...
+                                           ^^
+Line 134, column 104, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...articular ALU supports may be limited to  addition and subtraction, or might inclu...
+                                           ^^
+Line 135, column 106, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...on, trigonometry functions such as sine,  cosine, etc., and square roots. Some can...
+                                           ^^
+Line 136, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...hole numbers (integers) while others use  floating point to represent real numbers...
+                                           ^^
+Line 137, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...precision. However, any computer that is  capable of performing just the simplest ...
+                                           ^^
+Line 138, column 92, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...can be programmed to break down the more  complex operations into simple steps tha...
+                                           ^^
+Line 139, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...herefore, any computer can be programmed  to perform any arithmetic operation—alth...
+                                           ^^
+Line 140, column 97, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...e more time to do so if its ALU does not  directly support the operation. An ALU m...
+                                           ^^
+Line 141, column 76, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Boolean; boo lean
+...ALU may also compare numbers and return boolean truth values  (true or false) depending...
+                                           ^^^^^^^
+Line 141, column 96, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... numbers and return boolean truth values  (true or false) depending on whether one...
+                                           ^^
+Line 142, column 92, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...o, greater than or less than the other ("is 64 greater  than 65?"). Logic operati...
+                                           ^
+Line 142, column 106, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...n or less than the other ("is 64 greater  than 65?"). Logic operations involve Boo...
+                                           ^^
+Line 143, column 9, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...than the other ("is 64 greater  than 65?"). Logic operations involve Boolean logi...
+                                           ^
+Line 143, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...R, XOR, and NOT. These can be useful for  creating complicated conditional stateme...
+                                           ^^
+Line 144, column 60, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Boolean; boo lean
+...d conditional statements and processing boolean logic. Memory A computer's  memory can ...
+                                           ^^^^^^^
+Line 144, column 94, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ssing boolean logic. Memory A computer's  memory can be viewed as a list of cells ...
+                                           ^^
+Line 145, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...s can be placed or read. Each cell has a  numbered "address" and can store a singl...
+                                           ^^
+Line 146, column 10, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...aced or read. Each cell has a  numbered "address" and can store a single number. ...
+                                           ^
+Line 146, column 18, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...read. Each cell has a  numbered "address" and can store a single number. The info...
+                                           ^
+Line 146, column 97, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...formation stored in memory may represent  practically anything. Letters, numbers, ...
+                                           ^^
+Line 147, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...tructions can be placed into memory with  equal ease. Since the CPU does not diffe...
+                                           ^^
+Line 148, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ifferent types of information, it is the  software's responsibility to give signif...
+                                           ^^
+Line 149, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...e memory sees as nothing but a series of  numbers.In almost all modern computers, ...
+                                           ^^
+Line 150, column 9, Rule ID: SENTENCE_WHITESPACE
+Message: Add a space between sentences
+Suggestion:  In
+...ees as nothing but a series of  numbers.In almost all modern computers, each memor...
+                                           ^^
+Line 150, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...set up to store binary numbers in groups  of eight bits (called a byte). A compute...
+                                           ^^
+Line 151, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...nd of information in memory if it can be  represented numerically. Modern computer...
+                                           ^^
+Line 152, column 94, Rule ID: SENTENCE_WHITESPACE
+Message: Add a space between sentences
+Suggestion:  The
+...ns or even trillions of bytes of memory.The CPU  contains a special set of memory c...
+                                           ^^^
+Line 152, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ven trillions of bytes of memory.The CPU  contains a special set of memory cells c...
+                                           ^^
+Line 153, column 86, Rule ID: TO_TOO[2]
+Message: Did you mean 'too'?
+Suggestion: too
+... registers that can be read and written to much more rapidly  than the main memory...
+                                           ^^
+Line 153, column 106, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...be read and written to much more rapidly  than the main memory area. There are typ...
+                                           ^^
+Line 154, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...o and one hundred registers depending on  the type of CPU. Registers are used for ...
+                                           ^^
+Line 155, column 104, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ded data items to avoid having to access  main memory every time data is needed. A...
+                                           ^^
+Line 156, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ly being worked on, reducing the need to  access main memory (which is often slow ...
+                                           ^^
+Line 157, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...and control units) greatly increases the  computer's speed.Computer main memory co...
+                                           ^^
+Line 158, column 18, Rule ID: SENTENCE_WHITESPACE
+Message: Add a space between sentences
+Suggestion:  Computer
+...greatly increases the  computer's speed.Computer main memory comes in two principal vari...
+                                           ^^^^^^^^
+Line 158, column 95, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ncipal varieties random-access memory or  RAM and read-only memory or ROM RAM can ...
+                                           ^^
+Line 159, column 96, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...tten to anytime the CPU commands it, but  ROM is preloaded with data and software ...
+                                           ^^
+Line 160, column 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: reloaded; p reloaded
+...nytime the CPU commands it, but  ROM is preloaded with data and software that never chang...
+                                           ^^^^^^^^^
+Line 161, column 104, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...nstructions. In general, the contents of  RAM are erased when the power to the com...
+                                           ^^
+Line 162, column 205, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...that orchestrates loading the computer's  operating system from the hard disk driv...
+                                           ^^
+Line 163, column 97, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE
+Message: Three successive sentences begin with the same word. Reword the sentence or use a thesaurus to find a synonym.
+...ver the computer is turned on or reset. In  embedded computers, which frequently d...
+                                           ^^
+Line 163, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...r the computer is turned on or reset. In  embedded computers, which frequently do ...
+                                           ^^
+Line 164, column 63, Rule ID: ALL_OF_THE[1]
+Message: Simply use 'all the'.
+Suggestion: all the
+...ich frequently do not have disk drives, all of the required software may be  stored in ROM...
+                                           ^^^^^^^^^^
+Line 164, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ves, all of the required software may be  stored in ROM. Software stored in ROM is...
+                                           ^^
+Line 165, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ware, because it is notionally more like  hardware than software. Flash memory blu...
+                                           ^^
+Line 166, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...n between ROM and RAM, as it retains its  data when turned off but is also rewrita...
+                                           ^^
+Line 167, column 34, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: re writable
+...s its  data when turned off but is also rewritable. It is typically much slower than conve...
+                                           ^^^^^^^^^^
+Line 167, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...uch slower than conventional ROM and RAM  however, so its use is restricted to app...
+                                           ^^
+Line 168, column 106, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...d is unnecessary. Input/output (I/O) I/O  is the means by which a computer exchang...
+                                           ^^
+Line 169, column 97, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ith the outside world.[100] Devices that  provide input or output to the computer ...
+                                           ^^
+Line 170, column 102, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...s. [101] On a typical personal computer,  peripherals include input devices like t...
+                                           ^^
+Line 171, column 102, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+..., and output devices such as the display  and printer. Hard disk drives, floppy di...
+                                           ^^
+Line 172, column 105, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...sc drives serve as both input and output  devices. Computer networking is another ...
+                                           ^^
+Line 173, column 102, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ces are often complex computers in their  own right, with their own CPU and memory...
+                                           ^^
+Line 174, column 102, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ng unit might contain fifty or more tiny  computers that perform the calculations ...
+                                           ^^
+Line 175, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ay 3D graphics. Modern desktop computers  contain many smaller computers that assi...
+                                           ^^
+Line 176, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...n performing I/O. A 2016-era flat screen  display contains its own computer circui...
+                                           ^^
+Line 177, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...hile a computer may be viewed as running  one gigantic program stored in its main ...
+                                           ^^
+Line 178, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...s it is necessary to give the appearance  of running several programs simultaneous...
+                                           ^^
+Line 179, column 102, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...by multitasking i.e. having the computer  switch rapidly between running each prog...
+                                           ^^
+Line 180, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... by which this is done is with a special  signal called an interrupt, which can pe...
+                                           ^^
+Line 181, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... computer to stop executing instructions  where it was and do something else inste...
+                                           ^^
+Line 182, column 95, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ring where it was executing prior to the  interrupt, the computer can return to th...
+                                           ^^
+Line 183, column 56, Rule ID: SENTENCE_FRAGMENT[1]
+Message: “If” at the beginning of a sentence requires a 2nd clause. Maybe a comma, question or exclamation mark is missing, or the sentence is incomplete and should be joined with the following sentence. 
+...computer can return to that task later. If several programs are running "at the sa...
+                                           ^^
+Line 183, column 88, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+... later. If several programs are running "at the same time".  then the interrupt g...
+                                           ^
+Line 183, column 105, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...l programs are running "at the same time".  then the interrupt generator might be...
+                                           ^
+Line 184, column 1, Rule ID: UPPERCASE_SENTENCE_START
+Message: This sentence does not start with an uppercase letter
+Suggestion: Then
+...ograms are running "at the same time".  then the interrupt generator might be causin...
+                                           ^^^^
+Line 184, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...interrupts per second, causing a program  switch each time. Since modern computers...
+                                           ^^
+Line 185, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...instructions several orders of magnitude  faster than human perception, it may app...
+                                           ^^
+Line 186, column 97, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ograms are running at the same time even  though only one is ever executing in any...
+                                           ^^
+Line 187, column 104, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...thod of multitasking is sometimes termed  "time-sharing" since each program is all...
+                                           ^^
+Line 188, column 1, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...od of multitasking is sometimes termed  "time-sharing" since each program is allo...
+                                           ^
+Line 188, column 14, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...sking is sometimes termed  "time-sharing" since each program is allocated a "slic...
+                                           ^
+Line 188, column 50, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...ring" since each program is allocated a "slice" of time in turn. Multiprocessing ...
+                                           ^
+Line 188, column 56, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...since each program is allocated a "slice" of time in turn. Multiprocessing Some  ...
+                                           ^
+Line 188, column 95, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...e" of time in turn. Multiprocessing Some  computers are designed to distribute the...
+                                           ^^
+Line 189, column 64, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: CPU; Opus; Pus; Cps; CPU s
+...to distribute their work across several CPUs in a multiprocessing configuration,  a ...
+                                           ^^^^
+Line 189, column 104, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...CPUs in a multiprocessing configuration,  a technique once employed only in large ...
+                                           ^^
+Line 190, column 96, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...chines such as supercomputers, mainframe  computers and servers. Multiprocessor an...
+                                           ^^
+Line 191, column 43, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...mputers and servers. Multiprocessor and multi-core (multiple CPUs on a single integrated c...
+                                           ^^^^^^^^^^
+Line 191, column 64, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: CPU; Opus; Pus; Cps; CPU s
+...Multiprocessor and multi-core (multiple CPUs on a single integrated circuit)  person...
+                                           ^^^^
+Line 191, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ple CPUs on a single integrated circuit)  personal and laptop computers are now wi...
+                                           ^^
+Line 192, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...are being increasingly used in lower-end  markets as a result. Supercomputers in p...
+                                           ^^
+Line 193, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... highly unique architectures that differ  significantly from the basic stored-prog...
+                                           ^^
+Line 194, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...and from general purpose computers. They  often feature thousands of CPUs, customi...
+                                           ^^
+Line 195, column 28, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: CPU; Opus; Pus; Cps; CPU s
+...uters. They  often feature thousands of CPUs, customized high-speed interconnects, a...
+                                           ^^^^
+Line 195, column 96, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...interconnects, and specialized computing  hardware. Such designs tend to be useful...
+                                           ^^
+Line 196, column 102, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... tasks due to the large scale of program  organization required to successfully ut...
+                                           ^^
+Line 197, column 102, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ilable resources at once. Supercomputers  usually see usage in large-scale simulat...
+                                           ^^
+Line 198, column 107, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...nd cryptography applications, as well as  with other so-called "embarrassingly par...
+                                           ^^
+Line 199, column 22, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...tions, as well as  with other so-called "embarrassingly parallel" tasks. Software...
+                                           ^
+Line 199, column 46, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...other so-called "embarrassingly parallel" tasks. Software Software refers to part...
+                                           ^
+Line 199, column 55, Rule ID: ENGLISH_WORD_REPEAT_RULE
+Message: Possible typo: you repeated a word
+Suggestion: Software
+...called "embarrassingly parallel" tasks. Software Software refers to parts of the computer  which ...
+                                           ^^^^^^^^^^^^^^^^^
+Line 199, column 104, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...Software refers to parts of the computer  which do not have a material form, such ...
+                                           ^^
+Line 200, column 102, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...otocols, etc. Software is that part of a  computer system that consists of encoded...
+                                           ^^
+Line 201, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...omputer instructions, in contrast to the  physical hardware from which the system ...
+                                           ^^
+Line 202, column 96, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ter software includes computer programs,  libraries and related non-executable dat...
+                                           ^^
+Line 203, column 200, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...puter hardware and software require each  other and neither can be realistically u...
+                                           ^^
+Line 204, column 104, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ftware is stored in hardware that cannot  easily be modified, such as with BIOS RO...
+                                           ^^
+Line 205, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...patible computer, it is sometimes called  "firmware". Programs The defining featur...
+                                           ^^
+Line 206, column 1, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...tible computer, it is sometimes called  "firmware". Programs The defining feature...
+                                           ^
+Line 206, column 10, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...puter, it is sometimes called  "firmware". Programs The defining feature of moder...
+                                           ^
+Line 206, column 96, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...puters which distinguishes them from all  other machines is that they can be progr...
+                                           ^^
+Line 207, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... say that some type of instructions (the  program) can be given to the computer, a...
+                                           ^^
+Line 208, column 96, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: on; won; non; son; van; ton; ion; Jon; con; Avon; vow; Mon; Lon; VOA; eon; Ron; Don; Hon; ON; Son; Van; don; hon; vol; yon; v on
+...ess them. Modern computers based on the von  Neumann architecture often have machin...
+                                           ^^^
+Line 208, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... them. Modern computers based on the von  Neumann architecture often have machine ...
+                                           ^^
+Line 209, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Newman
+...hem. Modern computers based on the von  Neumann architecture often have machine code in...
+                                           ^^^^^^^
+Line 209, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...f an imperative programming language. In  practical terms, a computer program may ...
+                                           ^^
+Line 210, column 97, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...structions or extend to many millions of  instructions, as do the programs for wor...
+                                           ^^
+Line 211, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...b browsers for example. A typical modern  computer can execute billions of instruc...
+                                           ^^
+Line 212, column 59, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...te billions of instructions per second (gigaflops) and rarely makes a mistake over  many ...
+                                           ^^^^^^^^^
+Line 212, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...gaflops) and rarely makes a mistake over  many years of operation. Large computer ...
+                                           ^^
+Line 213, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...of several million instructions may take  teams of programmers years to write, and...
+                                           ^^
+Line 214, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ity of the task almost certainly contain  errors. Programming language Programming...
+                                           ^^
+Line 215, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... various ways of specifying programs for  computers to run. Unlike natural languag...
+                                           ^^
+Line 216, column 92, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ming languages are designed to permit no  ambiguity and to be concise. They are pu...
+                                           ^^
+Line 218, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...mpiler or an assembler before being run,  or translated directly at run time by an...
+                                           ^^
+Line 219, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...etimes programs are executed by a hybrid  method of the two techniques. Machine la...
+                                           ^^
+Line 220, column 95, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...e assembly languages that represent them  (collectively termed low-level programmi...
+                                           ^^
+Line 221, column 93, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...) are generally unique to the particular  architecture of a computer's central pro...
+                                           ^^
+Line 222, column 104, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... instance, an ARM architecture CPU (such  as may be found in a smartphone or a han...
+                                           ^^
+Line 223, column 22, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: smart phone
+...tecture CPU (such  as may be found in a smartphone or a hand-held videogame) cannot unders...
+                                           ^^^^^^^^^^
+Line 223, column 48, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: video game
+...be found in a smartphone or a hand-held videogame) cannot understand the machine language...
+                                           ^^^^^^^^^
+Line 223, column 97, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...) cannot understand the machine language  of an x86 CPU that might be in a PC. [10...
+                                           ^^
+Line 224, column 4, Rule ID: EN_A_VS_AN
+Message: Use 'a' instead of 'an' if the following word doesn't start with a vowel sound, e.g. 'a sentence', 'a university'
+Suggestion: a
+...not understand the machine language  of an x86 CPU that might be in a PC. [106] Hi...
+                                           ^^
+Line 224, column 87, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: CPU; cup; CPA; CPI; CPR; CPO; CCU; cpl; cpd; Cpl; Cu; Pu; cps; cu
+...torically a significant number of other cpu architectures  were created and saw ext...
+                                           ^^^
+Line 224, column 104, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ficant number of other cpu architectures  were created and saw extensive use, nota...
+                                           ^^
+Line 225, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...MOS Technology 6502 and 6510 in addition  to the Zilog Z80. Although considerably ...
+                                           ^^
+Line 226, column 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Pilot; Blog; Log; Zion; Dialog; Milo; Silo; Silos; Clog; Kilo; Kilos; Zelig; Flog; Slog; Zibo; Lilo; Zing; Zilch; Biog; Ziploc; Filo; Lilos
+...ology 6502 and 6510 in addition  to the Zilog Z80. Although considerably easier than ...
+                                           ^^^^^
+Line 226, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...chine language, writing long programs in  assembly language is often difficult and...
+                                           ^^
+Line 227, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+.... Therefore, most practical programs are  written in more abstract high-level prog...
+                                           ^^
+Line 228, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...hat are able to express the needs of the  programmer more conveniently (and thereb...
+                                           ^^
+Line 229, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...grammer error). High level languages are  usually "compiled" into machine language...
+                                           ^^
+Line 230, column 9, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...ror). High level languages are  usually "compiled" into machine language (or some...
+                                           ^
+Line 230, column 18, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...h level languages are  usually "compiled" into machine language (or sometimes int...
+                                           ^
+Line 230, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... assembly language and then into machine  language) using another computer program...
+                                           ^^
+Line 231, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...High level languages are less related to  the workings of the target computer than...
+                                           ^^
+Line 232, column 97, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ge, and more related to the language and  structure of the problem(s) to be solved...
+                                           ^^
+Line 233, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...m. It is therefore often possible to use  different compilers to translate the sam...
+                                           ^^
+Line 234, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...age program into the machine language of  many different types of computer. involv...
+                                           ^^
+Line 235, column 1, Rule ID: NUMEROUS_DIFFERENT[1]
+Message: Use simply 'many'.
+Suggestion: many
+...e program into the machine language of  many different types of computer. involving thousands ...
+                                           ^^^^^^^^^^^^^^
+Line 235, column 35, Rule ID: UPPERCASE_SENTENCE_START
+Message: This sentence does not start with an uppercase letter
+Suggestion: Involving
+...e of  many different types of computer. involving thousands of line of code and more requ...
+                                           ^^^^^^^^^
+Line 235, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...of code and more require formal software  methodologies. Networking and the Intern...
+                                           ^^
+Line 236, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...puter engineers at research institutions  throughout the United States began to li...
+                                           ^^
+Line 237, column 93, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...puters together using telecommunications  technology. The effort was funded by ARP...
+                                           ^^
+Line 238, column 98, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...d the computer network that resulted was  called the ARPANET. The technologies tha...
+                                           ^^
+Line 239, column 52, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Arcane; Arrant
+...ARPANET. The technologies that made the Arpanet possible spread and evolved.In time, th...
+                                           ^^^^^^^
+Line 239, column 88, Rule ID: SENTENCE_WHITESPACE
+Message: Add a space between sentences
+Suggestion:  In
+...the Arpanet possible spread and evolved.In time, the  network spread beyond academ...
+                                           ^^
+Line 239, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...possible spread and evolved.In time, the  network spread beyond academic and milit...
+                                           ^^
+Line 240, column 95, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ns and became known as the Internet. The  emergence of networking involved a redef...
+                                           ^^
+Line 242, column 102, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...include the ability to define and access  the resources of other computers on the ...
+                                           ^^
+Line 243, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ipheral devices, stored information, and  the like, as extensions of the resources...
+                                           ^^
+Line 244, column 214, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...he 1990s the spread of applications like  e-mail and the World Wide Web, combined ...
+                                           ^^
+Line 245, column 87, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...he development of cheap, fast networking  technologies like Ethernet and ADSL saw ...
+                                           ^^
+Line 246, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...g become almost ubiquitous. In fact, the  number of computers that are networked i...
+                                           ^^
+Line 247, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...lly. A very large proportion of personal  computers regularly connect to the Inter...
+                                           ^^
+Line 248, column 85, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...to communicate and receive information. "Wireless"  networking, often utilizing m...
+                                           ^
+Line 248, column 94, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...icate and receive information. "Wireless"  networking, often utilizing mobile pho...
+                                           ^
+Line 248, column 95, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...cate and receive information. "Wireless"  networking, often utilizing mobile phone...
+                                           ^^
+Line 249, column 97, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...eant networking is becoming increasingly  ubiquitous even in mobile computing envi...
+                                           ^^
+Line 250, column 96, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...icial intelligence A computer will solve  problems in exactly the way it is progra...
+                                           ^^
+Line 251, column 102, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...rd to efficiency, alternative solutions,  possible shortcuts, or possible errors i...
+                                           ^^
+Line 252, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...rograms that learn and adapt are part of  the emerging field of artificial intelli...
+                                           ^^
+Line 253, column 107, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+.... Artificial intelligence based products  generally fall into two major categories...
+                                           ^^
+Line 254, column 105, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... pattern recognition systems. Rule based  systems attempt to represent the rules u...
+                                           ^^
+Line 256, column 97, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...e conclusions. Examples of pattern based  systems include voice recognition, font ...
+                                           ^^
+Line 257, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...lation and the emerging field of on-line  marketing.  
+                                           ^^

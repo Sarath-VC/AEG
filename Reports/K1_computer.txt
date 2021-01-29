@@ -1,0 +1,99 @@
+Line 2, column 1, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+COMPUTER     A computer is a machine which compute ...
+         ^^
+Line 3, column 89, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... produce result as an information. It is  operate in low voltage. Human can do com...
+                                           ^^
+Line 4, column 1, Rule ID: BEEN_PART_AGREEMENT[1]
+Message: Consider using a past participle here: 'operated'.
+Suggestion: operated
+...roduce result as an information. It is  operate in low voltage. Human can do computatio...
+                                           ^^^^^^^
+Line 4, column 90, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... but what if a machine do the same thing  with less time and human effort? This qu...
+                                           ^^
+Line 6, column 47, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...rom human machine is of no commonsense.     A man can do calculation. With the help ...
+                                           ^^^^
+Line 7, column 89, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...puter human can do calculation with less  time and less human effort. By doing thi...
+                                           ^^
+Line 8, column 94, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...sistent mindset humans can be tired. But  using computer we can do things at anyti...
+                                           ^^
+Line 9, column 77, Rule ID: SENTENCE_FRAGMENT[1]
+Message: “Because” at the beginning of a sentence requires a 2nd clause. Maybe a comma, question or exclamation mark is missing, or the sentence is incomplete and should be joined with the following sentence. 
+...nytime anywhere and any amount of work. Because  computer is a machine it don’t have co...
+                                           ^^^^^^^
+Line 9, column 84, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...anywhere and any amount of work. Because  computer is a machine it don’t have comm...
+                                           ^^
+Line 10, column 26, Rule ID: IT_VBZ[1]
+Message: Did you mean 'does'?
+Suggestion: does
+...work. Because  computer is a machine it don’t have commonsense. In situation which ...
+                                           ^^^
+Line 10, column 85, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...nse. In situation which need commonsense  computer can’t do anything. But developm...
+                                           ^^
+Line 11, column 87, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...omes in technologies and information can  make a computer to think. Robots are the...
+                                           ^^
+Line 12, column 52, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...uter to think. Robots are the examples.     Nowadays computer gets a role in our day...
+                                           ^^^^
+Line 13, column 83, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... to day life. Computer has used to store  information. It computes data of any typ...
+                                           ^^
+Line 14, column 87, Rule ID: IT_VBZ[1]
+Message: Did you mean 'uses'?
+Suggestion: uses
+...can be stored in its storage module. It use ALU  unit for arithmetic and logic calc...
+                                           ^^^
+Line 14, column 94, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...stored in its storage module. It use ALU  unit for arithmetic and logic calculatio...
+                                           ^^
+Line 16, column 89, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...faces. Interfaces can be input or output  devices. There is no offices now without...
+                                           ^^
+Line 17, column 10, Rule ID: THERE_S_MANY[4]
+Message: Did you mean 'There are no offices'?
+Suggestion: There are no offices
+...rfaces can be input or output  devices. There is no offices now without a computer today.     Compu...
+                                           ^^^^^^^^^^^^^^^^^^^
+Line 17, column 60, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...o offices now without a computer today.     Computer is a machine which has an impor...
+                                           ^^^^
+Line 18, column 90, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...le in our life. It’s advantages makes it  role very important.  
+                                           ^^

@@ -1,0 +1,2133 @@
+Line 4, column 88, Rule ID: SMALL_NUMBER_OF[1]
+Message: Specify a number, remove phrase, use 'a few', or use 'some'
+Suggestion: a few; some
+...fy a large set of textual entities into a small number of discrete categories, corresponding to t...
+                                           ^^^^^^^^^^^^^^^^^
+Line 7, column 8, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...m of statistical classification. Several  factors  have  contributed  to  a  growi...
+                                           ^^
+Line 7, column 17, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...istical classification. Several  factors  have  contributed  to  a  growing  inter...
+                                           ^^
+Line 7, column 23, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...l classification. Several  factors  have  contributed  to  a  growing  interest  i...
+                                           ^^
+Line 7, column 36, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ion. Several  factors  have  contributed  to  a  growing  interest  in  AES.  Amon...
+                                           ^^
+Line 7, column 40, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... Several  factors  have  contributed  to  a  growing  interest  in  AES.  Among  t...
+                                           ^^
+Line 7, column 43, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...veral  factors  have  contributed  to  a  growing  interest  in  AES.  Among  them...
+                                           ^^
+Line 7, column 52, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ctors  have  contributed  to  a  growing  interest  in  AES.  Among  them  are  co...
+                                           ^^
+Line 7, column 62, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...e  contributed  to  a  growing  interest  in  AES.  Among  them  are  cost,  accou...
+                                           ^^
+Line 7, column 66, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ontributed  to  a  growing  interest  in  AES.  Among  them  are  cost,  accountab...
+                                           ^^
+Line 7, column 79, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...o  a  growing  interest  in  AES.  Among  them  are  cost,  accountability, standa...
+                                           ^^
+Line 7, column 85, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...growing  interest  in  AES.  Among  them  are  cost,  accountability, standards, a...
+                                           ^^
+Line 7, column 90, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ng  interest  in  AES.  Among  them  are  cost,  accountability, standards, and te...
+                                           ^^
+Line 7, column 97, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...erest  in  AES.  Among  them  are  cost,  accountability, standards, and technolog...
+                                           ^^
+Line 20, column 14, Rule ID: SENTENCE_WHITESPACE
+Message: Add a space between sentences
+Suggestion:  Org
+...eria for success Criticism HumanReaders.Org Petition Software References History Mo...
+                                           ^^^
+Line 27, column 49, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Put a space after the comma
+Suggestion: , [
+...oring would not have been cost-effective,[4] so Page abated his efforts for about ...
+                                           ^^
+Line 29, column 3, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... sold PEG to Measurement Incorporated By  1990,  desktop  computers  had  become  ...
+                                           ^^
+Line 29, column 10, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...EG to Measurement Incorporated By  1990,  desktop  computers  had  become  so  pow...
+                                           ^^
+Line 29, column 19, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...surement Incorporated By  1990,  desktop  computers  had  become  so  powerful  an...
+                                           ^^
+Line 29, column 30, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...corporated By  1990,  desktop  computers  had  become  so  powerful  and  so  wide...
+                                           ^^
+Line 29, column 35, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...rated By  1990,  desktop  computers  had  become  so  powerful  and  so  widesprea...
+                                           ^^
+Line 29, column 43, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...  1990,  desktop  computers  had  become  so  powerful  and  so  widespread  that ...
+                                           ^^
+Line 29, column 47, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...90,  desktop  computers  had  become  so  powerful  and  so  widespread  that  AES...
+                                           ^^
+Line 29, column 57, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...op  computers  had  become  so  powerful  and  so  widespread  that  AES  was  a  ...
+                                           ^^
+Line 29, column 62, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...omputers  had  become  so  powerful  and  so  widespread  that  AES  was  a  pract...
+                                           ^^
+Line 29, column 66, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ters  had  become  so  powerful  and  so  widespread  that  AES  was  a  practical...
+                                           ^^
+Line 29, column 78, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ecome  so  powerful  and  so  widespread  that  AES  was  a  practical possibility...
+                                           ^^
+Line 29, column 84, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... so  powerful  and  so  widespread  that  AES  was  a  practical possibility. As e...
+                                           ^^
+Line 29, column 89, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...powerful  and  so  widespread  that  AES  was  a  practical possibility. As early ...
+                                           ^^
+Line 29, column 94, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ful  and  so  widespread  that  AES  was  a  practical possibility. As early as 19...
+                                           ^^
+Line 29, column 97, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...  and  so  widespread  that  AES  was  a  practical possibility. As early as 1982,...
+                                           ^^
+Line 31, column 9, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... was able to offer punctuation, spelling  and  grammar  advice.[5]  In  collaborat...
+                                           ^^
+Line 31, column 14, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...able to offer punctuation, spelling  and  grammar  advice.[5]  In  collaboration  ...
+                                           ^^
+Line 31, column 23, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ffer punctuation, spelling  and  grammar  advice.[5]  In  collaboration  with  sev...
+                                           ^^
+Line 31, column 35, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...tion, spelling  and  grammar  advice.[5]  In  collaboration  with  several  compan...
+                                           ^^
+Line 31, column 39, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+..., spelling  and  grammar  advice.[5]  In  collaboration  with  several  companies ...
+                                           ^^
+Line 31, column 54, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...  grammar  advice.[5]  In  collaboration  with  several  companies  (notably  Educ...
+                                           ^^
+Line 31, column 60, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...mar  advice.[5]  In  collaboration  with  several  companies  (notably  Educationa...
+                                           ^^
+Line 31, column 69, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ce.[5]  In  collaboration  with  several  companies  (notably  Educational  Testin...
+                                           ^^
+Line 31, column 80, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... collaboration  with  several  companies  (notably  Educational  Testing Service),...
+                                           ^^
+Line 31, column 90, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...tion  with  several  companies  (notably  Educational  Testing Service), Page upda...
+                                           ^^
+Line 31, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...everal  companies  (notably  Educational  Testing Service), Page updated PEG and r...
+                                           ^^
+Line 33, column 7, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Felt; Folk; Foot; Fort; Forth; Forty; Bolt; Fold; Forts; Font; Fonts; Colt; Foley; Fritz; Holt; Bolts; Folds; Folio; Folks; Volt; Volts; Waltz; Folly; Volta; Colts; Filth; Forte; Molt; Footy; Jolt; Jolts; Molts; Felts; Foots; Dolt; Dolts; Flt; Fol; Foll; Futz
+...ful trials in the early 1990s.[6] Peter Foltz and Thomas Landauer developed a system ...
+                                           ^^^^^
+Line 33, column 24, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Lander; Landau; Landaus
+... early 1990s.[6] Peter Foltz and Thomas Landauer developed a system using a scoring engi...
+                                           ^^^^^^^^
+Line 35, column 87, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: commercial products
+...and used for scoring within a number of commercialproducts and state and national exams. IntelliMe...
+                                           ^^^^^^^^^^^^^^^^^^
+Line 36, column 14, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... state and national exams. IntelliMetric  is  Vantage  Learning's  AES  engine.  I...
+                                           ^^
+Line 36, column 18, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...te and national exams. IntelliMetric  is  Vantage  Learning's  AES  engine.  Its  ...
+                                           ^^
+Line 36, column 27, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...tional exams. IntelliMetric  is  Vantage  Learning's  AES  engine.  Its  developme...
+                                           ^^
+Line 36, column 39, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+.... IntelliMetric  is  Vantage  Learning's  AES  engine.  Its  development  began  i...
+                                           ^^
+Line 36, column 44, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...elliMetric  is  Vantage  Learning's  AES  engine.  Its  development  began  in  19...
+                                           ^^
+Line 36, column 58, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...  Vantage  Learning's  AES  engine.  Its  development  began  in  1996.[8]  It  wa...
+                                           ^^
+Line 36, column 71, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...arning's  AES  engine.  Its  development  began  in  1996.[8]  It  was  first  use...
+                                           ^^
+Line 36, column 78, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...s  AES  engine.  Its  development  began  in  1996.[8]  It  was  first  used comme...
+                                           ^^
+Line 36, column 82, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ES  engine.  Its  development  began  in  1996.[8]  It  was  first  used commercia...
+                                           ^^
+Line 36, column 92, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+....  Its  development  began  in  1996.[8]  It  was  first  used commercially to sco...
+                                           ^^
+Line 36, column 96, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ts  development  began  in  1996.[8]  It  was  first  used commercially to score e...
+                                           ^^
+Line 36, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...evelopment  began  in  1996.[8]  It  was  first  used commercially to score essays...
+                                           ^^
+Line 36, column 108, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ent  began  in  1996.[8]  It  was  first  used commercially to score essays in 199...
+                                           ^^
+Line 38, column 12, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... to score essays in 1998.[9] Educational  Testing  Service  offers  "e-rater",  an...
+                                           ^^
+Line 38, column 21, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... essays in 1998.[9] Educational  Testing  Service  offers  "e-rater",  an  automat...
+                                           ^^
+Line 38, column 30, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...n 1998.[9] Educational  Testing  Service  offers  "e-rater",  an  automated  essay...
+                                           ^^
+Line 38, column 38, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...9] Educational  Testing  Service  offers  "e-rater",  an  automated  essay  scorin...
+                                           ^^
+Line 38, column 40, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+... Educational  Testing  Service  offers  "e-rater",  an  automated  essay  scoring...
+                                           ^
+Line 38, column 48, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...onal  Testing  Service  offers  "e-rater",  an  automated  essay  scoring  progra...
+                                           ^
+Line 38, column 50, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...al  Testing  Service  offers  "e-rater",  an  automated  essay  scoring  program. ...
+                                           ^^
+Line 38, column 54, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...Testing  Service  offers  "e-rater",  an  automated  essay  scoring  program.  It ...
+                                           ^^
+Line 38, column 65, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...rvice  offers  "e-rater",  an  automated  essay  scoring  program.  It  was  first...
+                                           ^^
+Line 38, column 72, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...offers  "e-rater",  an  automated  essay  scoring  program.  It  was  first  used ...
+                                           ^^
+Line 38, column 81, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...e-rater",  an  automated  essay  scoring  program.  It  was  first  used commercia...
+                                           ^^
+Line 38, column 95, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... automated  essay  scoring  program.  It  was  first  used commercially in Februar...
+                                           ^^
+Line 38, column 100, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...mated  essay  scoring  program.  It  was  first  used commercially in February 199...
+                                           ^^
+Line 38, column 107, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...essay  scoring  program.  It  was  first  used commercially in February 1999.[10] ...
+                                           ^^
+Line 39, column 41, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Bernstein; Puritan; Bursting; Borstal
+...commercially in February 1999.[10] Jill Burstein was the team leader in its development....
+                                           ^^^^^^^^
+Line 41, column 10, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Runner; Rudder; Ruder
+... scores and targeted feedback. Lawrence Rudner has done some work with Bayesian scorin...
+                                           ^^^^^^
+Line 42, column 30, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: system
+...lled BETSY (Bayesian Essay Test Scoring sYstem).[11] Some of his results have been pub...
+                                           ^^^^^^
+Line 44, column 32, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Michel; Miguel; Motel; Mites; Mattel; Mite; Mizzen; Mitzi; Miter; Mitten; Mitchel; Ditzes
+... as yet. Under the leadership of Howard Mitzel and Sue Lottridge, Pacific Metrics deve...
+                                           ^^^^^^
+Line 44, column 47, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Lott ridge
+...the leadership of Howard Mitzel and Sue Lottridge, Pacific Metrics developed a constructe...
+                                           ^^^^^^^^^
+Line 47, column 35, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: summation; summarize
+... been used in large-scale formative and summative assessment environments since 2007. Mea...
+                                           ^^^^^^^^^
+Line 49, column 3, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... and has continued to develop it.[12] In  2012,  the  Hewlett  Foundation  sponsor...
+                                           ^^
+Line 49, column 10, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...s continued to develop it.[12] In  2012,  the  Hewlett  Foundation  sponsored  a  ...
+                                           ^^
+Line 49, column 15, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...tinued to develop it.[12] In  2012,  the  Hewlett  Foundation  sponsored  a  compe...
+                                           ^^
+Line 49, column 24, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... develop it.[12] In  2012,  the  Hewlett  Foundation  sponsored  a  competition  o...
+                                           ^^
+Line 49, column 36, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...[12] In  2012,  the  Hewlett  Foundation  sponsored  a  competition  on  Kaggle  c...
+                                           ^^
+Line 49, column 47, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...12,  the  Hewlett  Foundation  sponsored  a  competition  on  Kaggle  called  the ...
+                                           ^^
+Line 49, column 50, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...  the  Hewlett  Foundation  sponsored  a  competition  on  Kaggle  called  the  Au...
+                                           ^^
+Line 49, column 63, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...t  Foundation  sponsored  a  competition  on  Kaggle  called  the  Automated  Stud...
+                                           ^^
+Line 49, column 67, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...oundation  sponsored  a  competition  on  Kaggle  called  the  Automated  Student ...
+                                           ^^
+Line 49, column 69, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Gaggle; Waggle; Haggle
+...ndation  sponsored  a  competition  on  Kaggle  called  the  Automated  Student Assess...
+                                           ^^^^^^
+Line 49, column 75, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...n  sponsored  a  competition  on  Kaggle  called  the  Automated  Student Assessme...
+                                           ^^
+Line 49, column 83, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ored  a  competition  on  Kaggle  called  the  Automated  Student Assessment Prize...
+                                           ^^
+Line 49, column 88, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... a  competition  on  Kaggle  called  the  Automated  Student Assessment Prize (ASA...
+                                           ^^
+Line 49, column 99, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...tion  on  Kaggle  called  the  Automated  Student Assessment Prize (ASAP).[13] 201...
+                                           ^^
+Line 54, column 66, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Put a space after the comma
+Suggestion: , [
+...scoring was as reliable as human scoring,[14] this claim was not substantiated by ...
+                                           ^^
+Line 55, column 31, Rule ID: SOME_OF_THE[1]
+Message: Simply use 'some'.
+Suggestion: some
+...tiated by any statistical tests because some of the vendors required that no such tests be ...
+                                           ^^^^^^^^^^^
+Line 57, column 59, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Put a space after the comma
+Suggestion: , [
+...raters has since been strongly contested,[16][17] including by Randy E. Bennett, t...
+                                           ^^
+Line 58, column 11, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...ding by Randy E. Bennett, the Norman O. Frederiksen Chair in Assessment Innovation at the E...
+                                           ^^^^^^^^^^^
+Line 58, column 94, Rule ID: SOME_OF_THE[1]
+Message: Simply use 'some'.
+Suggestion: Some
+...at the Educational Testing Service.[18] Some of the major criticisms of the study have been...
+                                           ^^^^^^^^^^^
+Line 59, column 64, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: data sets
+... study have been that five of the eight datasets consisted of paragraphs rather than ess...
+                                           ^^^^^^^^
+Line 61, column 88, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...eaders and the AES machines against the "true score", the average of the two read...
+                                           ^
+Line 61, column 99, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...the AES machines against the "true score", the average of the two readers' scores...
+                                           ^
+Line 62, column 85, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...y employed an artificial construct, the "resolved score", which in four datasets ...
+                                           ^
+Line 62, column 100, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...rtificial construct, the "resolved score", which in four datasets consisted of th...
+                                           ^
+Line 63, column 6, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: data sets
+...ct, the "resolved score", which in four datasets consisted of the higher of the two huma...
+                                           ^^^^^^^^
+Line 64, column 93, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: data sets
+... by allowing them to round up for these datasets.[16] Different dimensions of essay qual...
+                                           ^^^^^^^^
+Line 66, column 16, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: recent
+...ensions of essay quality According to a rencent survey[19], modern AES systems try to s...
+                                           ^^^^^^^
+Line 66, column 78, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: dimensions
+...dern AES systems try to score different dimenions of an essay's quality in order to provi...
+                                           ^^^^^^^^^
+Line 68, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Grammatically
+...dimensions include the following items: Grammaticality: following grammar rules Usage: using o...
+                                           ^^^^^^^^^^^^^^
+Line 71, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Style
+...r spelling, punctuation, capitalization Sytle: world choice, sentense structure varie...
+                                           ^^^^^
+Line 71, column 22, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: sentence; sen tense
+...on, capitalization Sytle: world choice, sentense structure variety Relevance: how releva...
+                                           ^^^^^^^^
+Line 75, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Cohesion
+...ent: development of ideas with examples Coherison: appropriate use of transition phrases ...
+                                           ^^^^^^^^^
+Line 76, column 44, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...erence: appropriate transitions between ideasThesis Clarity: clarity of the thesis Persuasi...
+                                           ^^^^^^^^^^^
+Line 77, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Persuasiveness
+...asThesis Clarity: clarity of the thesis Persuasivenes: convincingness of the major argument P...
+                                           ^^^^^^^^^^^^^
+Line 77, column 16, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...y: clarity of the thesis Persuasivenes: convincingness of the major argument Procedure From th...
+                                           ^^^^^^^^^^^^^^
+Line 85, column 60, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Parsing; Pershing; Perusing; Pursing; Perming; Perking; Versing
+...mathematical model was created by Isaac Persing and Vincent Ng.[21] which not only eval...
+                                           ^^^^^^^
+Line 85, column 80, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: No; Kg; NP; Nu; LNG; NY; VG; Nag; Lg; Neg; Mg; Ag; Eng; G; Hg; ING; LG; N; NB; NC; ND; NE; NF; NH; NJ; NM; NR; NS; NT; NV; NW; NZ; Na; Nb; Nd; Ne; Ni; Np; PG; Ang; Cg; Jg; Pg; N g
+...as created by Isaac Persing and Vincent Ng.[21] which not only evaluates essays on...
+                                           ^^
+Line 107, column 8, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...mong them are percent agreement, Scott's  b'\xcf\x80',  Cohen's  b'\xce\xba',  Krippendorf's  b'\xce\xb1',  Pear...
+                                           ^^
+Line 107, column 10, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...ng them are percent agreement, Scott's  b'\xcf\x80',  Cohen's  b'\xce\xba',  Krippendorf's  b'\xce\xb1',  Pears...
+                                           ^
+Line 107, column 12, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... them are percent agreement, Scott's  b'\xcf\x80',  Cohen's  b'\xce\xba',  Krippendorf's  b'\xce\xb1',  Pearson'...
+                                           ^^
+Line 107, column 21, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... percent agreement, Scott's  b'\xcf\x80',  Cohen's  b'\xce\xba',  Krippendorf's  b'\xce\xb1',  Pearson's  correl...
+                                           ^^
+Line 107, column 23, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...ercent agreement, Scott's  b'\xcf\x80',  Cohen's  b'\xce\xba',  Krippendorf's  b'\xce\xb1',  Pearson's  correla...
+                                           ^
+Line 107, column 25, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...cent agreement, Scott's  b'\xcf\x80',  Cohen's  b'\xce\xba',  Krippendorf's  b'\xce\xb1',  Pearson's  correlatio...
+                                           ^^
+Line 107, column 27, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...nt agreement, Scott's  b'\xcf\x80',  Cohen's  b'\xce\xba',  Krippendorf's  b'\xce\xb1',  Pearson's  correlation  coeffici...
+                                           ^^^^^^^^^^^
+Line 107, column 40, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... Scott's  b'\xcf\x80',  Cohen's  b'\xce\xba',  Krippendorf's  b'\xce\xb1',  Pearson's  correlation  coefficient ...
+                                           ^^
+Line 107, column 42, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...cott's  b'\xcf\x80',  Cohen's  b'\xce\xba',  Krippendorf's  b'\xce\xb1',  Pearson's  correlation  coefficient  ...
+                                           ^
+Line 107, column 44, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...tt's  b'\xcf\x80',  Cohen's  b'\xce\xba',  Krippendorf's  b'\xce\xb1',  Pearson's  correlation  coefficient  r, ...
+                                           ^^
+Line 107, column 55, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ohen's  b'\xce\xba',  Krippendorf's  b'\xce\xb1',  Pearson's  correlation  coefficient  r,  Spearman's...
+                                           ^^
+Line 107, column 68, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...rippendorf's  b'\xce\xb1',  Pearson's  correlation  coefficient  r,  Spearman's  rank  corre...
+                                           ^^
+Line 107, column 81, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... b'\xce\xb1',  Pearson's  correlation  coefficient  r,  Spearman's  rank  correlation coeffi...
+                                           ^^
+Line 107, column 85, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... Pearson's  correlation  coefficient  r,  Spearman's  rank  correlation coefficien...
+                                           ^^
+Line 107, column 87, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Spaceman
+...earson's  correlation  coefficient  r,  Spearman's  rank  correlation coefficient b'\xcf\x81', and...
+                                           ^^^^^^^^
+Line 107, column 97, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...correlation  coefficient  r,  Spearman's  rank  correlation coefficient b'\xcf\x81', and Lin...
+                                           ^^
+Line 107, column 103, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ation  coefficient  r,  Spearman's  rank  correlation coefficient b'\xcf\x81', and Lin's con...
+                                           ^^
+Line 108, column 13, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...earman's  rank  correlation coefficient b'\xcf\x81', and Lin's concordance correlation coef...
+                                           ^
+Line 117, column 18, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...e. Alternatively, each essay is given a "true score" by taking the average of the...
+                                           ^
+Line 117, column 29, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...ively, each essay is given a "true score" by taking the average of the two human ...
+                                           ^
+Line 120, column 6, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...etter than a human. Page made this claim  for  PEG  in  1994.[6]  Scott  Elliot  s...
+                                           ^^
+Line 120, column 11, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... than a human. Page made this claim  for  PEG  in  1994.[6]  Scott  Elliot  said  ...
+                                           ^^
+Line 120, column 16, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... a human. Page made this claim  for  PEG  in  1994.[6]  Scott  Elliot  said  in  2...
+                                           ^^
+Line 120, column 20, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...uman. Page made this claim  for  PEG  in  1994.[6]  Scott  Elliot  said  in  2003 ...
+                                           ^^
+Line 120, column 30, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... made this claim  for  PEG  in  1994.[6]  Scott  Elliot  said  in  2003  that  Int...
+                                           ^^
+Line 120, column 37, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...his claim  for  PEG  in  1994.[6]  Scott  Elliot  said  in  2003  that  IntelliMet...
+                                           ^^
+Line 120, column 45, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...m  for  PEG  in  1994.[6]  Scott  Elliot  said  in  2003  that  IntelliMetric  typ...
+                                           ^^
+Line 120, column 51, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...  PEG  in  1994.[6]  Scott  Elliot  said  in  2003  that  IntelliMetric  typically...
+                                           ^^
+Line 120, column 55, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...G  in  1994.[6]  Scott  Elliot  said  in  2003  that  IntelliMetric  typically  ou...
+                                           ^^
+Line 120, column 61, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... 1994.[6]  Scott  Elliot  said  in  2003  that  IntelliMetric  typically  outperfo...
+                                           ^^
+Line 120, column 67, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...[6]  Scott  Elliot  said  in  2003  that  IntelliMetric  typically  outperformed  ...
+                                           ^^
+Line 120, column 82, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...iot  said  in  2003  that  IntelliMetric  typically  outperformed  human scorers.[...
+                                           ^^
+Line 120, column 93, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...in  2003  that  IntelliMetric  typically  outperformed  human scorers.[8] AES mach...
+                                           ^^
+Line 120, column 107, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...  IntelliMetric  typically  outperformed  human scorers.[8] AES machines, however,...
+                                           ^^
+Line 126, column 65, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...on various grounds. Yang et al. mention "the over-reliance on surface features of...
+                                           ^
+Line 128, column 9, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...e vulnerability to new types of cheating  and  test-taking  strategies."[26]  Seve...
+                                           ^^
+Line 128, column 14, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...nerability to new types of cheating  and  test-taking  strategies."[26]  Several  ...
+                                           ^^
+Line 128, column 27, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... new types of cheating  and  test-taking  strategies."[26]  Several  critics  are ...
+                                           ^^
+Line 128, column 40, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+... cheating  and  test-taking  strategies."[26]  Several  critics  are  concerned  ...
+                                           ^
+Line 128, column 45, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ting  and  test-taking  strategies."[26]  Several  critics  are  concerned  that  ...
+                                           ^^
+Line 128, column 54, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...  test-taking  strategies."[26]  Several  critics  are  concerned  that  students'...
+                                           ^^
+Line 128, column 63, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...king  strategies."[26]  Several  critics  are  concerned  that  students'  motivat...
+                                           ^^
+Line 128, column 68, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... strategies."[26]  Several  critics  are  concerned  that  students'  motivation  ...
+                                           ^^
+Line 128, column 79, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...."[26]  Several  critics  are  concerned  that  students'  motivation  will  be di...
+                                           ^^
+Line 128, column 85, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...  Several  critics  are  concerned  that  students'  motivation  will  be diminish...
+                                           ^^
+Line 128, column 96, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...critics  are  concerned  that  students'  motivation  will  be diminished if they ...
+                                           ^^
+Line 128, column 108, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...  concerned  that  students'  motivation  will  be diminished if they know that no...
+                                           ^^
+Line 128, column 114, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...erned  that  students'  motivation  will  be diminished if they know that no human...
+                                           ^^
+Line 131, column 14, Rule ID: SENTENCE_WHITESPACE
+Message: Add a space between sentences
+Suggestion:  Org
+...ing given high scores.[28] HumanReaders.Org Petition On  12  March  2013,  HumanRea...
+                                           ^^^
+Line 132, column 3, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...scores.[28] HumanReaders.Org Petition On  12  March  2013,  HumanReaders.Org  laun...
+                                           ^^
+Line 132, column 7, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...es.[28] HumanReaders.Org Petition On  12  March  2013,  HumanReaders.Org  launched...
+                                           ^^
+Line 132, column 14, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... HumanReaders.Org Petition On  12  March  2013,  HumanReaders.Org  launched  an  o...
+                                           ^^
+Line 132, column 21, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...eaders.Org Petition On  12  March  2013,  HumanReaders.Org  launched  an  online  ...
+                                           ^^
+Line 132, column 36, Rule ID: SENTENCE_WHITESPACE
+Message: Add a space between sentences
+Suggestion:  Org
+...tion On  12  March  2013,  HumanReaders.Org  launched  an  online  petition,  "Prof...
+                                           ^^^
+Line 132, column 39, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...n On  12  March  2013,  HumanReaders.Org  launched  an  online  petition,  "Profes...
+                                           ^^
+Line 132, column 49, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...March  2013,  HumanReaders.Org  launched  an  online  petition,  "Professionals  A...
+                                           ^^
+Line 132, column 53, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...h  2013,  HumanReaders.Org  launched  an  online  petition,  "Professionals  Again...
+                                           ^^
+Line 132, column 61, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...  HumanReaders.Org  launched  an  online  petition,  "Professionals  Against  Mach...
+                                           ^^
+Line 132, column 72, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ers.Org  launched  an  online  petition,  "Professionals  Against  Machine Scoring...
+                                           ^^
+Line 132, column 74, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...s.Org  launched  an  online  petition,  "Professionals  Against  Machine Scoring ...
+                                           ^
+Line 132, column 88, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...d  an  online  petition,  "Professionals  Against  Machine Scoring of Student Essa...
+                                           ^^
+Line 132, column 97, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...line  petition,  "Professionals  Against  Machine Scoring of Student Essays in Hig...
+                                           ^^
+Line 133, column 52, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...Student Essays in High-Stakes Assessment". Within weeks, the petition gained thou...
+                                           ^
+Line 134, column 23, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Norm; Foam; Noah; Roam; Nam; Loam; No am
+...ined thousands of signatures, including Noam Chomsky,[29] and was cited in a number ...
+                                           ^^^^
+Line 134, column 35, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Put a space after the comma
+Suggestion: , [
+...ds of signatures, including Noam Chomsky,[29] and was cited in a number of newspap...
+                                           ^^
+Line 135, column 6, Rule ID: COMMA_PARENTHESIS_WHITESPACE
+Message: Put a space after the comma
+Suggestion: , [
+...newspapers, including The New York Times,[30] and on a number of education and tec...
+                                           ^^
+Line 136, column 4, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... education and technology blogs.[31] The  petition  describes  the  use  of  AES  ...
+                                           ^^
+Line 136, column 14, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... and technology blogs.[31] The  petition  describes  the  use  of  AES  for  high-...
+                                           ^^
+Line 136, column 25, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...logy blogs.[31] The  petition  describes  the  use  of  AES  for  high-stakes  tes...
+                                           ^^
+Line 136, column 30, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...blogs.[31] The  petition  describes  the  use  of  AES  for  high-stakes  testing ...
+                                           ^^
+Line 136, column 35, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+....[31] The  petition  describes  the  use  of  AES  for  high-stakes  testing  as  ...
+                                           ^^
+Line 136, column 39, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...] The  petition  describes  the  use  of  AES  for  high-stakes  testing  as  "tri...
+                                           ^^
+Line 136, column 44, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...  petition  describes  the  use  of  AES  for  high-stakes  testing  as  "trivial"...
+                                           ^^
+Line 136, column 49, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ition  describes  the  use  of  AES  for  high-stakes  testing  as  "trivial",  "r...
+                                           ^^
+Line 136, column 62, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...bes  the  use  of  AES  for  high-stakes  testing  as  "trivial",  "reductive",  "...
+                                           ^^
+Line 136, column 71, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+... use  of  AES  for  high-stakes  testing  as  "trivial",  "reductive",  "inaccurat...
+                                           ^^
+Line 136, column 75, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...  of  AES  for  high-stakes  testing  as  "trivial",  "reductive",  "inaccurate", ...
+                                           ^^
+Line 136, column 77, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...of  AES  for  high-stakes  testing  as  "trivial",  "reductive",  "inaccurate", "...
+                                           ^
+Line 136, column 85, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+... for  high-stakes  testing  as  "trivial",  "reductive",  "inaccurate", "undiagno...
+                                           ^
+Line 136, column 87, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...or  high-stakes  testing  as  "trivial",  "reductive",  "inaccurate", "undiagnosti...
+                                           ^^
+Line 136, column 89, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...  high-stakes  testing  as  "trivial",  "reductive",  "inaccurate", "undiagnostic...
+                                           ^
+Line 136, column 99, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...kes  testing  as  "trivial",  "reductive",  "inaccurate", "undiagnostic", "unfair...
+                                           ^
+Line 136, column 101, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...s  testing  as  "trivial",  "reductive",  "inaccurate", "undiagnostic", "unfair" a...
+                                           ^^
+Line 136, column 103, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+... testing  as  "trivial",  "reductive",  "inaccurate", "undiagnostic", "unfair" an...
+                                           ^
+Line 136, column 114, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...s  "trivial",  "reductive",  "inaccurate", "undiagnostic", "unfair" and "secretiv...
+                                           ^
+Line 137, column 1, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+..."trivial",  "reductive",  "inaccurate", "undiagnostic", "unfair" and "secretive"....
+                                           ^
+Line 137, column 2, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: diagnostic
+...trivial",  "reductive",  "inaccurate", "undiagnostic", "unfair" and "secretive".[32] In a de...
+                                           ^^^^^^^^^^^^
+Line 137, column 14, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...reductive",  "inaccurate", "undiagnostic", "unfair" and "secretive".[32] In a det...
+                                           ^
+Line 137, column 17, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...uctive",  "inaccurate", "undiagnostic", "unfair" and "secretive".[32] In a detail...
+                                           ^
+Line 137, column 24, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...,  "inaccurate", "undiagnostic", "unfair" and "secretive".[32] In a detailed summ...
+                                           ^
+Line 137, column 30, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...accurate", "undiagnostic", "unfair" and "secretive".[32] In a detailed summary of...
+                                           ^
+Line 137, column 40, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+... "undiagnostic", "unfair" and "secretive".[32] In a detailed summary of research ...
+                                           ^
+Line 138, column 68, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...search on AES, the petition site notes, "RESEARCH FINDINGS SHOW THAT no one—stude...
+                                           ^
+Line 141, column 9, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+... not promote, authentic acts of writing."[33] The petition specifically addresses...
+                                           ^
+Line 146, column 1, Rule ID: UPPERCASE_SENTENCE_START
+Message: This sentence does not start with an uppercase letter
+Suggestion: ERater
+...utomated essay scoring are proprietary. eRater – published by Educational Testing Serv...
+                                           ^^^^^^
+Line 146, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: crater; Crater; eater; eraser; rater; grater; prater
+...utomated essay scoring are proprietary. eRater – published by Educational Testing Serv...
+                                           ^^^^^^
+Line 147, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...ublished by Educational Testing Service Intellimetric – by Vantage Learning Project Essay Gra...
+                                           ^^^^^^^^^^^^^
+Line 148, column 1, Rule ID: AFFORD_VB[1]
+Message: This verb is used with the infinitive: 'to project'
+Suggestion: To project
+...ice Intellimetric – by Vantage Learning Project Essay Grade[34] – by Measurement, Inc. ...
+                                           ^^^^^^^
+Line 150, column 23, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...erRaterReferences 1. Page, E.B. (2003). "Project Essay Grade: PEG", p. 43. In She...
+                                           ^
+Line 150, column 48, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+..., E.B. (2003). "Project Essay Grade: PEG", p. 43. In Shermis, Mark D., and Jill B...
+                                           ^
+Line 150, column 61, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Sherman; Hermit; Hermes; Dermis; Hermits; Semis; Sherri; Sheri; Thermos; Sherrie; Sherries; Therms; Sperms
+.... "Project Essay Grade: PEG", p. 43. In Shermis, Mark D., and Jill Burstein, eds., Auto...
+                                           ^^^^^^^
+Line 150, column 88, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Bernstein; Puritan; Bursting; Borstal
+...", p. 43. In Shermis, Mark D., and Jill Burstein, eds., Automated Essay Scoring: A Cross...
+                                           ^^^^^^^^
+Line 151, column 75, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Erbium
+...ross-Disciplinary Perspective. Lawrence Erlbaum Associates, Mahwah, New Jersey, ISBN 08...
+                                           ^^^^^^^
+Line 152, column 13, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Yahweh
+...rspective. Lawrence Erlbaum Associates, Mahwah, New Jersey, ISBN 0805839739  - Larkey,...
+                                           ^^^^^^
+Line 152, column 48, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...tes, Mahwah, New Jersey, ISBN 0805839739  - Larkey, Leah S., and W. Bruce Croft (2...
+                                           ^^
+Line 153, column 3, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Larva; Lackey; Parka; Larked
+... Mahwah, New Jersey, ISBN 0805839739  - Larkey, Leah S., and W. Bruce Croft (2003). "A...
+                                           ^^^^^^
+Line 153, column 47, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...ey, Leah S., and W. Bruce Croft (2003). "A Text Categorization Approach to Automa...
+                                           ^
+Line 154, column 14, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...tion Approach to Automated Essay Grading", p. 55. In Shermis, Mark D., and Jill B...
+                                           ^
+Line 154, column 27, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Sherman; Hermit; Hermes; Dermis; Hermits; Semis; Sherri; Sheri; Thermos; Sherrie; Sherries; Therms; Sperms
+... to Automated Essay Grading", p. 55. In Shermis, Mark D., and Jill Burstein, eds. Autom...
+                                           ^^^^^^^
+Line 154, column 54, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Bernstein; Puritan; Bursting; Borstal
+...", p. 55. In Shermis, Mark D., and Jill Burstein, eds. Automated Essay Scoring: A Cross-...
+                                           ^^^^^^^^
+Line 155, column 44, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Erbium
+...ross-Disciplinary Perspective. Lawrence Erlbaum Associates, Mahwah, New Jersey, ISBN 08...
+                                           ^^^^^^^
+Line 155, column 64, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Yahweh
+...rspective. Lawrence Erlbaum Associates, Mahwah, New Jersey, ISBN 0805839739  - Keith, ...
+                                           ^^^^^^
+Line 156, column 16, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...tes, Mahwah, New Jersey, ISBN 0805839739  - Keith, Timothy Z. (2003). "Validity of...
+                                           ^^
+Line 157, column 29, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...0805839739  - Keith, Timothy Z. (2003). "Validity of Automated Essay Scoring Syst...
+                                           ^
+Line 157, column 73, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...idity of Automated Essay Scoring Systems", p. 153. In Shermis, Mark D., and Jill ...
+                                           ^
+Line 157, column 87, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Sherman; Hermit; Hermes; Dermis; Hermits; Semis; Sherri; Sheri; Thermos; Sherrie; Sherries; Therms; Sperms
+...ated Essay Scoring Systems", p. 153. In Shermis, Mark D., and Jill Burstein, eds., Auto...
+                                           ^^^^^^^
+Line 158, column 19, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Bernstein; Puritan; Bursting; Borstal
+..., p. 153. In Shermis, Mark D., and Jill Burstein, eds., Automated Essay Scoring: A Cross...
+                                           ^^^^^^^^
+Line 159, column 10, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Erbium
+...ross-Disciplinary Perspective. Lawrence Erlbaum Associates, Mahwah, New Jersey, ISBN 08...
+                                           ^^^^^^^
+Line 159, column 30, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Yahweh
+...rspective. Lawrence Erlbaum Associates, Mahwah, New Jersey, ISBN 0805839739  - Shermis...
+                                           ^^^^^^
+Line 159, column 65, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...tes, Mahwah, New Jersey, ISBN 0805839739  - Shermis, Mark D., Jill Burstein, and C...
+                                           ^^
+Line 160, column 3, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Sherman; Hermit; Hermes; Dermis; Hermits; Semis; Sherri; Sheri; Thermos; Sherrie; Sherries; Therms; Sperms
+... Mahwah, New Jersey, ISBN 0805839739  - Shermis, Mark D., Jill Burstein, and Claudia Le...
+                                           ^^^^^^^
+Line 160, column 26, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Bernstein; Puritan; Bursting; Borstal
+...BN 0805839739  - Shermis, Mark D., Jill Burstein, and Claudia Leacock (2006). "Applicati...
+                                           ^^^^^^^^
+Line 160, column 48, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Peacock; Lea cock
+...is, Mark D., Jill Burstein, and Claudia Leacock (2006). "Applications of Computers in A...
+                                           ^^^^^^^
+Line 160, column 64, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...l Burstein, and Claudia Leacock (2006). "Applications of Computers in Assessment ...
+                                           ^
+Line 161, column 35, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...rs in Assessment and Analysis of Writing", p. 403. In MacArthur, Charles A., Stev...
+                                           ^
+Line 162, column 49, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Milford; Wilford
+...ld, eds., Handbook of Writing Research. Guilford Press, New York, ISBN 1-59385-190- 1  -...
+                                           ^^^^^^^^
+Line 163, column 2, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ord Press, New York, ISBN 1-59385-190- 1  - Attali, Yigal, Brent Bridgeman, and Ca...
+                                           ^^
+Line 164, column 3, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: At tali
+...Press, New York, ISBN 1-59385-190- 1  - Attali, Yigal, Brent Bridgeman, and Catherine ...
+                                           ^^^^^^
+Line 164, column 11, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Final; Legal; Rival; Signal; Vital; Tidal; Dial; Viral; Yoga; Nigel; Riga; Cigar; Rizal; Vidal; Algal; Gal; Regal; Vial; Vigil; Kigali; Fugal; Sisal; Ital; Riyal; Rigel; Rial
+...ew York, ISBN 1-59385-190- 1  - Attali, Yigal, Brent Bridgeman, and Catherine Trapani...
+                                           ^^^^^
+Line 164, column 24, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Bridgman
+... 1-59385-190- 1  - Attali, Yigal, Brent Bridgeman, and Catherine Trapani (2010). "Perform...
+                                           ^^^^^^^^^
+Line 164, column 49, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Timpani; Trajan; Tympani
+..., Yigal, Brent Bridgeman, and Catherine Trapani (2010). "Performance of a Generic Appro...
+                                           ^^^^^^^
+Line 164, column 65, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...ridgeman, and Catherine Trapani (2010). "Performance of a Generic Approach in Aut...
+                                           ^
+Line 165, column 36, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...eric Approach in Automated Essay Scoring", p. 4. Journal of Technology, Learning,...
+                                           ^
+Line 166, column 18, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...hnology, Learning, and Assessment, 10(3)  - Wang, Jinhao, and Michelle Stallone Br...
+                                           ^^
+Line 167, column 9, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Jihad; Jinnah; Jinan
+...earning, and Assessment, 10(3)  - Wang, Jinhao, and Michelle Stallone Brown (2007). "A...
+                                           ^^^^^^
+Line 167, column 53, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...ao, and Michelle Stallone Brown (2007). "Automated Essay Scoring Versus Human Sco...
+                                           ^
+Line 168, column 35, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...ersus Human Scoring: A Comparative Study", p. 6. Journal of Technology, Learning,...
+                                           ^
+Line 169, column 17, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...chnology, Learning, and Assessment, 6(2)  - Bennett, Randy Elliot, and Anat Ben-Si...
+                                           ^^
+Line 170, column 30, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Ana; Ant; Nat; Gnat; Anal; Ana t
+...ent, 6(2)  - Bennett, Randy Elliot, and Anat Ben-Simon (2005). "Toward Theoretically...
+                                           ^^^^
+Line 170, column 53, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...andy Elliot, and Anat Ben-Simon (2005). "Toward Theoretically Meaningful Automate...
+                                           ^
+Line 171, column 24, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...cally Meaningful Automated Essay Scoring" (http://clickit.ort.org.il/files/upl/22...
+                                           ^
+Line 173, column 6, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: PD; PDT; PDQ; Pd; pd; pf; pd f
+...t.org.il/files/upl/224004906/93440 4432.pdf) 7 October 2007 at the Wayback Machine,...
+                                           ^^^
+Line 173, column 33, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Payback; Swayback
+...6/93440 4432.pdf) 7 October 2007 at the Wayback Machine, p. 6. Retrieved 19 March 2012-...
+                                           ^^^^^^^
+Line 174, column 23, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...d 19 March 2012-. 2. Page, E.B. (1966). "The imminence of grading essays by compu...
+                                           ^
+Line 174, column 68, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...imminence of grading essays by computers". Phi Delta Kappan, 47, 238-243. 3. Page...
+                                           ^
+Line 174, column 81, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Kappa; Kappas
+...grading essays by computers". Phi Delta Kappan, 47, 238-243. 3. Page, E.B. (1968). "Th...
+                                           ^^^^^^
+Line 176, column 23, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...pan, 47, 238-243. 3. Page, E.B. (1968). "The Use of the Computer in Analyzing Stu...
+                                           ^
+Line 176, column 75, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...the Computer in Analyzing Student Essays", International Review of Education, 14(...
+                                           ^
+Line 179, column 26, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Frame; Fraser; Erase
+...3), pp. 44-45. 5. MacDonald, N.H., L.T. Frase, P.S. Gingrich, and S.A. Keenan (1982)....
+                                           ^^^^^
+Line 179, column 72, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+... P.S. Gingrich, and S.A. Keenan (1982). "The Writers Workbench: Computer Aids for...
+                                           ^
+Line 180, column 32, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...rkbench: Computer Aids for Text Analysis", IEEE Transactions on Communications, 3...
+                                           ^
+Line 181, column 23, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...s, 3(1), 105-110. 6. Page, E.B. (1994). "New Computer Grading of Student Prose, U...
+                                           ^
+Line 182, column 9, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...rose, Using Modern Concepts and Software", Journal of Experimental Education, 62(...
+                                           ^
+Line 183, column 4, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Runner; Rudder; Ruder
+...erimental Education, 62(2), 127-142. 7. Rudner, Lawrence. "Three prominent writing ass...
+                                           ^^^^^^
+Line 183, column 22, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...n, 62(2), 127-142. 7. Rudner, Lawrence. "Three prominent writing assessment progr...
+                                           ^
+Line 183, column 66, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...ee prominent writing assessment programs" (http://echo.edres.org:808 0/betsy/thre...
+                                           ^
+Line 184, column 3, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Betsy; bets y
+... programs" (http://echo.edres.org:808 0/betsy/three_prominent.htm) Archived (https://...
+                                           ^^^^^
+Line 184, column 9, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...ams" (http://echo.edres.org:808 0/betsy/three_prominent.htm) Archived (https://web.archive.org/...
+                                           ^^^^^^^^^^^^^^^
+Line 184, column 25, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: him; HTML; ATM; Ham; ham; hum; hem; Hts; HM; HT; TM; Tm; hmm; ht; ht m
+...o.edres.org:808 0/betsy/three_prominent.htm) Archived (https://web.archive.org/web/...
+                                           ^^^
+Line 185, column 4, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: edges; ed res
+...ive.org/web/20120309232819/http://ec ho.edres.org:8080/betsy/three_prominent.htm) 9 M...
+                                           ^^^^^
+Line 185, column 19, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Betsy; bets y
+...20309232819/http://ec ho.edres.org:8080/betsy/three_prominent.htm) 9 March 2012 at th...
+                                           ^^^^^
+Line 185, column 25, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...32819/http://ec ho.edres.org:8080/betsy/three_prominent.htm) 9 March 2012 at the Wayback Machin...
+                                           ^^^^^^^^^^^^^^^
+Line 185, column 41, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: him; HTML; ATM; Ham; ham; hum; hem; Hts; HM; HT; TM; Tm; hmm; ht; ht m
+...ho.edres.org:8080/betsy/three_prominent.htm) 9 March 2012 at the Wayback Machine. R...
+                                           ^^^
+Line 185, column 66, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Payback; Swayback
+...hree_prominent.htm) 9 March 2012 at the Wayback Machine. Retrieved 6 March 2012. 8. Ell...
+                                           ^^^^^^^
+Line 187, column 26, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+... 6 March 2012. 8. Elliot, Scott (2003). "Intellimetric TM: From Here to Validity"...
+                                           ^
+Line 187, column 27, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...6 March 2012. 8. Elliot, Scott (2003). "Intellimetric TM: From Here to Validity", p. 75. In S...
+                                           ^^^^^^^^^^^^^
+Line 187, column 66, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+..."Intellimetric TM: From Here to Validity", p. 75. In Shermis, Mark D., and Jill B...
+                                           ^
+Line 187, column 79, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Sherman; Hermit; Hermes; Dermis; Hermits; Semis; Sherri; Sheri; Thermos; Sherrie; Sherries; Therms; Sperms
+...c TM: From Here to Validity", p. 75. In Shermis, Mark D., and Jill Burstein, eds., Auto...
+                                           ^^^^^^^
+Line 188, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Bernstein; Puritan; Bursting; Borstal
+...", p. 75. In Shermis, Mark D., and Jill Burstein, eds., Automated Essay Scoring: A Cross...
+                                           ^^^^^^^^
+Line 189, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Erbium
+...ross-Disciplinary Perspective. Lawrence Erlbaum Associates, Mahwah, New Jersey, ISBN 08...
+                                           ^^^^^^^
+Line 189, column 21, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Yahweh
+...rspective. Lawrence Erlbaum Associates, Mahwah, New Jersey, ISBN 0805839739 9. "Intell...
+                                           ^^^^^^
+Line 190, column 4, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+... Mahwah, New Jersey, ISBN 0805839739 9. "IntelliMetric®: How it Works (http://www...
+                                           ^
+Line 191, column 17, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...ellimetric/intellimetri c-how-it-works/)", Vantage Learning. Retrieved 28 Februar...
+                                           ^
+Line 192, column 5, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Bernstein; Puritan; Bursting; Borstal
+...arning. Retrieved 28 February 2012. 10. Burstein, Jill (2003). "The E-rater(R) Scoring E...
+                                           ^^^^^^^^
+Line 192, column 28, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...bruary 2012. 10. Burstein, Jill (2003). "The E-rater(R) Scoring Engine: Automated...
+                                           ^
+Line 193, column 20, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...Scoring with Natural Language Processing", p. 113. In Shermis, Mark D., and Jill ...
+                                           ^
+Line 193, column 34, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Sherman; Hermit; Hermes; Dermis; Hermits; Semis; Sherri; Sheri; Thermos; Sherrie; Sherries; Therms; Sperms
+...atural Language Processing", p. 113. In Shermis, Mark D., and Jill Burstein, eds., Auto...
+                                           ^^^^^^^
+Line 193, column 61, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Bernstein; Puritan; Bursting; Borstal
+..., p. 113. In Shermis, Mark D., and Jill Burstein, eds., Automated Essay Scoring: A Cross...
+                                           ^^^^^^^^
+Line 194, column 53, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Erbium
+...ross-Disciplinary Perspective. Lawrence Erlbaum Associates, Mahwah, New Jersey, ISBN 08...
+                                           ^^^^^^^
+Line 194, column 73, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Yahweh
+...rspective. Lawrence Erlbaum Associates, Mahwah, New Jersey, ISBN 0805839739 11. Rudner...
+                                           ^^^^^^
+Line 196, column 5, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Runner; Rudder; Ruder
+...Mahwah, New Jersey, ISBN 0805839739 11. Rudner, Lawrence (ca. 2002). "Computer Grading...
+                                           ^^^^^^
+Line 196, column 34, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...839739 11. Rudner, Lawrence (ca. 2002). "Computer Grading using Bayesian Networks...
+                                           ^
+Line 196, column 84, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...Grading using Bayesian Networks-Overview" (http:// echo.edres.org:8080/betsy/baye...
+                                           ^
+Line 197, column 6, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: edges; ed res
+...yesian Networks-Overview" (http:// echo.edres.org:8080/betsy/bayesian_ov.htm) Archive...
+                                           ^^^^^
+Line 197, column 21, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Betsy; bets y
+...-Overview" (http:// echo.edres.org:8080/betsy/bayesian_ov.htm) Archived (https://web....
+                                           ^^^^^
+Line 197, column 27, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...iew" (http:// echo.edres.org:8080/betsy/bayesian_ov.htm) Archived (https://web.archive.org/...
+                                           ^^^^^^^^^^^
+Line 197, column 39, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: him; HTML; ATM; Ham; ham; hum; hem; Hts; HM; HT; TM; Tm; hmm; ht; ht m
+.../ echo.edres.org:8080/betsy/bayesian_ov.htm) Archived (https://web.archive.org/web/...
+                                           ^^^
+Line 198, column 78, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Payback; Swayback
+...sy/bayesian_ov.htm) 8 March 2012 at the Wayback Machine. Retrieved 7 March 2012.12. "As...
+                                           ^^^^^^^
+Line 199, column 37, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...ack Machine. Retrieved 7 March 2012.12. "Assessment Technologies" (http://www.mea...
+                                           ^
+Line 199, column 61, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+... March 2012.12. "Assessment Technologies" (http://www.measurementinc.com/Solution...
+                                           ^
+Line 200, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: gives; lies; gain; goes; dies; ties; gains; Giles; gait; pies; gigs; gaits; gins; vies; Gail; gibes; gees; gites; gits; hies
+...entinc.com/Solutions/AssessmentTechnolo gies) Archived (https://web.archive.org/web/...
+                                           ^^^^
+Line 201, column 61, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Payback; Swayback
+...ntTechnologies) 29 December 2011 at the Wayback Machine, Measurement Incorporated. Retr...
+                                           ^^^^^^^
+Line 203, column 18, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...etrieved 9 March 2012. 13. Hewlett prize" (http://www.hewlett.org/newsroom/press-...
+                                           ^
+Line 204, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...-release/hewlett-foundation-sponsors-pr ize-improve-automated-scoring-student-essays). Retrieved 5 March 2012. 14. "Man and ...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Line 205, column 5, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...nt-essays). Retrieved 5 March 2012. 14. "Man and machine: Better writers, better ...
+                                           ^
+Line 205, column 52, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...d machine: Better writers, better grades" (http://www.uakron.edu/im/online-newsro...
+                                           ^
+Line 206, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...tp://www.uakron.edu/im/online-newsroom/ news_details.dot?newsId=40920394-9e62-415d-b038-15fe...
+                                           ^^^^^^^^^^^^
+Line 206, column 18, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: news; noose; loosed; NeWS; newbie; nooses; Nereid; goosed; newsy; NeWSes; newsier; nookie
+...du/im/online-newsroom/ news_details.dot?newsId=40920394-9e62-415d-b038-15fe2e72a677&pa...
+                                           ^^^^^^
+Line 209, column 3, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Sherman; Hermit; Hermes; Dermis; Hermits; Semis; Sherri; Sheri; Thermos; Sherrie; Sherries; Therms; Sperms
+...2 April 2012. Retrieved 4 July 2015.  - Shermis, Mark D., and Jill Burstein, eds. Handb...
+                                           ^^^^^^^
+Line 209, column 30, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Bernstein; Puritan; Bursting; Borstal
+...uly 2015.  - Shermis, Mark D., and Jill Burstein, eds. Handbook of Automated Essay Evalu...
+                                           ^^^^^^^^
+Line 210, column 34, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Rutledge
+...urrent Applications and New Directions. Routledge, 2013. 15. Rivard, Ry (15 March 2013). ...
+                                           ^^^^^^^^^
+Line 211, column 5, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: River; Richard; Rival; Rivers; Regard; Rivalry; Rivals; Reward; Lizard; Wizard; Ricardo; Rivera; Rivaled; Retard; Rivas; Ribald; Rived; Jivaro
+...nd New Directions. Routledge, 2013. 15. Rivard, Ry (15 March 2013). "Humans Fight Over...
+                                           ^^^^^^
+Line 211, column 33, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+..., 2013. 15. Rivard, Ry (15 March 2013). "Humans Fight Over Robo-Readers" (https:/...
+                                           ^
+Line 211, column 64, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...h 2013). "Humans Fight Over Robo-Readers" (https://www.insidehighered. com/news/2...
+                                           ^
+Line 212, column 1, Rule ID: UPPERCASE_SENTENCE_START
+Message: This sentence does not start with an uppercase letter
+Suggestion: Com
+...o-Readers" (https://www.insidehighered. com/news/2013/03/15/professors-odds-machine...
+                                           ^^^
+Line 214, column 34, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+... 2015. 16. Perelman, Les (August 2013). "Critique of Mark D. Shermis & Ben Hamner...
+                                           ^
+Line 214, column 55, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Sherman; Hermit; Hermes; Dermis; Hermits; Semis; Sherri; Sheri; Thermos; Sherrie; Sherries; Therms; Sperms
+...Les (August 2013). "Critique of Mark D. Shermis & Ben Hamner, "Contrasting State- of-th...
+                                           ^^^^^^^
+Line 214, column 69, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Hammer; Hamper
+...13). "Critique of Mark D. Shermis & Ben Hamner, "Contrasting State- of-the-Art Automat...
+                                           ^^^^^^
+Line 214, column 77, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...itique of Mark D. Shermis & Ben Hamner, "Contrasting State- of-the-Art Automated ...
+                                           ^
+Line 215, column 49, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...rt Automated Scoring of Essays: Analysis"" (http://www.journalofwritingassessment...
+                                           ^
+Line 216, column 11, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: pop; ft; PhD; HP; pH; PCP; fr; pep; ftp; phi; pip; pup; fps; pap; fop; PP; fa; ff; fl; hp; pp; p hp
+...journalofwritingassessment.or g/article.php?article=69). Journal of Writing Assessm...
+                                           ^^^
+Line 217, column 26, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+... 13 June 2015. 17. Perelman, L. (2014). "When 'the state of the art is counting w...
+                                           ^
+Line 217, column 72, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...'the state of the art is counting words'", Assessing Writing, 21, 104-111. 18. Be...
+                                           ^
+Line 219, column 37, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...11. 18. Bennett, Randy E. (March 2015). "The Changing Nature of Educational Asses...
+                                           ^
+Line 219, column 83, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...hanging Nature of Educational Assessment". Review of Research in Education. 39 (1...
+                                           ^
+Line 221, column 5, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: He; We; Be; Me; Km; Key; Kg; KB; KO; OE; Keg; Eke; Ce; DE; E; Fe; GE; Ge; IE; Ike; K; KC; KP; KS; KY; Kb; Ken; Kr; Ks; Ky; Le; ME; NE; Ne; PE; Re; SE; Se; Te; Xe; KW; Kc; Kl; Kn; Kt; Kw; Ve; Ye; K e
+...arch in Education. 39 (1): 370–407. 19. Ke, Zixuan (9 August 2019). "Automated Ess...
+                                           ^^
+Line 221, column 9, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+... in Education. 39 (1): 370–407. 19. Ke, Zixuan (9 August 2019). "Automated Essay Scori...
+                                           ^^^^^^
+Line 221, column 33, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...70–407. 19. Ke, Zixuan (9 August 2019). "Automated Essay Scoring: A Survey of the...
+                                           ^
+Line 221, column 91, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...coring: A Survey of the State of the Art" (http s://www.ijcai.org/Proceedings/201...
+                                           ^
+Line 221, column 94, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: HTTP
+...ing: A Survey of the State of the Art" (http s://www.ijcai.org/Proceedings/2019/0879...
+                                           ^^^^
+Line 226, column 5, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Parsing; Pershing; Perusing; Pursing; Perming; Perking; Versing
+.... Keith, Timothy Z. (2003), p. 149. 21. Persing, Isaac, and Vincent Ng (2015). "Modelin...
+                                           ^^^^^^^
+Line 226, column 33, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: No; Kg; NP; Nu; LNG; NY; VG; Nag; Lg; Neg; Mg; Ag; Eng; G; Hg; ING; LG; N; NB; NC; ND; NE; NF; NH; NJ; NM; NR; NS; NT; NV; NW; NZ; Na; Nb; Nd; Ne; Ni; Np; PG; Ang; Cg; Jg; Pg; N g
+...p. 149. 21. Persing, Isaac, and Vincent Ng (2015). "Modeling Argument Strength in ...
+                                           ^^
+Line 226, column 44, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+... Persing, Isaac, and Vincent Ng (2015). "Modeling Argument Strength in Student Es...
+                                           ^
+Line 226, column 89, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...ling Argument Strength in Student Essays" (htt p://www.aclweb.org/anthology/P/P15...
+                                           ^
+Line 226, column 92, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: hit; hot; hat; hut; Hts; HST; HT; HTTP; hgt; ht; ht t
+...g Argument Strength in Student Essays" (htt p://www.aclweb.org/anthology/P/P15/P15-...
+                                           ^^^
+Line 230, column 32, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Ana; Ant; Nat; Gnat; Anal; Ana t
+...5-10-22. 22. Bennett, Randy Elliot, and Anat Ben-Simon (2005), p. 7. 23. Chung, Greg...
+                                           ^^^^
+Line 231, column 53, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...regory K.W.K., and Eva L. Baker (2003). "Issues in the Reliability and Validity o...
+                                           ^
+Line 232, column 43, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...tomated Scoring of Constructed Responses", p. 23. In: Automated Essay Scoring: A ...
+                                           ^
+Line 233, column 27, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Sherman; Hermit; Hermes; Dermis; Hermits; Semis; Sherri; Sheri; Thermos; Sherrie; Sherries; Therms; Sperms
+...ing: A Cross- Disciplinary Perspective. Shermis, Mark D., and Jill Burstein, eds. Lawre...
+                                           ^^^^^^^
+Line 233, column 54, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Bernstein; Puritan; Bursting; Borstal
+...Perspective. Shermis, Mark D., and Jill Burstein, eds. Lawrence Erlbaum Associates, Mahw...
+                                           ^^^^^^^^
+Line 233, column 78, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Erbium
+...rk D., and Jill Burstein, eds. Lawrence Erlbaum Associates, Mahwah, New Jersey, ISBN 08...
+                                           ^^^^^^^
+Line 234, column 13, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Yahweh
+...tein, eds. Lawrence Erlbaum Associates, Mahwah, New Jersey, ISBN 0805839739 24. Elliot...
+                                           ^^^^^^
+Line 236, column 3, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Bernstein; Puritan; Bursting; Borstal
+...739 24. Elliot, Scott (2003), p. 77.  - Burstein, Jill (2003), p. 114. 25. Bennett, Rand...
+                                           ^^^^^^^^
+Line 237, column 35, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+... 114. 25. Bennett, Randy E. (May 2006). "Technology and Writing Assessment: Lesso...
+                                           ^
+Line 238, column 51, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...ional Assessment of Educational Progress" (https://web.archive.org/web/20150924 0...
+                                           ^
+Line 241, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: meets; cents; tents; meats; melts; menus; rents; vents; mints; dents; gents; Lents; Menes; bents; mends; men ts
+...the original (http://www.iaea.info/docu ments/paper_1162a26d7.pdf) (PDF) on 24 Septem...
+                                           ^^^^^
+Line 241, column 23, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: PD; PDT; PDQ; Pd; pd; pf; pd f
+...ww.iaea.info/docu ments/paper_1162a26d7.pdf) (PDF) on 24 September 2015. Retrieved ...
+                                           ^^^
+Line 242, column 22, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...ved 5 July 2015.  - McCurry, D. (2010). "Can machine scoring deal with broad and ...
+                                           ^
+Line 243, column 15, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+... writing tests as well as human readers?". Assessing Writing. 15: 118–129.  - R. ...
+                                           ^
+Line 244, column 6, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Bridgman
+.... Assessing Writing. 15: 118–129.  - R. Bridgeman (2013). Shermis, Mark D.; Burstein, Jil...
+                                           ^^^^^^^^^
+Line 244, column 23, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Sherman; Hermit; Hermes; Dermis; Hermits; Semis; Sherri; Sheri; Thermos; Sherrie; Sherries; Therms; Sperms
+...g. 15: 118–129.  - R. Bridgeman (2013). Shermis, Mark D.; Burstein, Jill (eds.). Handbo...
+                                           ^^^^^^^
+Line 244, column 41, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Bernstein; Puritan; Bursting; Borstal
+... R. Bridgeman (2013). Shermis, Mark D.; Burstein, Jill (eds.). Handbook of Automated Ess...
+                                           ^^^^^^^^
+Line 245, column 23, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Rutledge
+...f Automated Essay Evaluation. New York: Routledge. pp. 221–232. 26. Yang, Yongwei, Chad W...
+                                           ^^^^^^^^^
+Line 245, column 34, Rule ID: UPPERCASE_SENTENCE_START
+Message: This sentence does not start with an uppercase letter
+Suggestion: Pp
+... Essay Evaluation. New York: Routledge. pp. 221–232. 26. Yang, Yongwei, Chad W. Bu...
+                                           ^^
+Line 246, column 11, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Songhai
+...York: Routledge. pp. 221–232. 26. Yang, Yongwei, Chad W. Buckendahl, Piotr J. Juszkiewi...
+                                           ^^^^^^^
+Line 246, column 28, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...pp. 221–232. 26. Yang, Yongwei, Chad W. Buckendahl, Piotr J. Juszkiewicz, and Dennison S. ...
+                                           ^^^^^^^^^^
+Line 246, column 40, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Pyotr
+... 26. Yang, Yongwei, Chad W. Buckendahl, Piotr J. Juszkiewicz, and Dennison S. Bhola (...
+                                           ^^^^^
+Line 246, column 49, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+..., Yongwei, Chad W. Buckendahl, Piotr J. Juszkiewicz, and Dennison S. Bhola (2002). "A Revie...
+                                           ^^^^^^^^^^^
+Line 246, column 66, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Dennis on
+.... Buckendahl, Piotr J. Juszkiewicz, and Dennison S. Bhola (2002). "A Review of Strategie...
+                                           ^^^^^^^^
+Line 246, column 78, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Bola
+..., Piotr J. Juszkiewicz, and Dennison S. Bhola (2002). "A Review of Strategies for Val...
+                                           ^^^^^
+Line 246, column 92, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...zkiewicz, and Dennison S. Bhola (2002). "A Review of Strategies for Validating Co...
+                                           ^
+Line 247, column 63, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...or Validating Computer-Automated Scoring" (http://irt.com.ne.kr/data/aut omatedsc...
+                                           ^
+Line 248, column 16, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: PD; PDT; PDQ; Pd; pd; pf; pd f
+...//irt.com.ne.kr/data/aut omatedscoring1.pdf) Archived (https://web.archive.org/web/...
+                                           ^^^
+Line 249, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Kr; or; km; Dr; Mr; Jr; kg; PR; KB; KO; RR; fr; qr; AR; Ar; BR; Br; Cr; ER; Er; Fr; Gr; HR; Ir; K; KC; KP; KS; KY; Kb; Ks; Ky; Lr; NR; OR; Pr; R; Sr; Ur; Zr; er; gr; hr; k; kW; kc; kl; kn; ks; kt; kw; pr; r; tr; yr; k r
+...g/web/20160113040838/http://irt.com.ne. kr/data/automatedscoring1.pdf) 13 January ...
+                                           ^^
+Line 249, column 27, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: PD; PDT; PDQ; Pd; pd; pf; pd f
+...//irt.com.ne. kr/data/automatedscoring1.pdf) 13 January 2016 at the Wayback Machine...
+                                           ^^^
+Line 249, column 55, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Payback; Swayback
+...tedscoring1.pdf) 13 January 2016 at the Wayback Machine, Applied Measurement in Educati...
+                                           ^^^^^^^
+Line 250, column 67, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Jihad; Jinnah; Jinan
+...15(4). Retrieved 8 March 2012.27. Wang, Jinhao, and Michelle Stallone Brown (2007), pp...
+                                           ^^^^^^
+Line 251, column 3, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Dial; Wiki; Nikki; Dials; Dike; Dikes; Deli; Dimly; Dali; Dill; Diked; Dilly; Villi; Dills; Diwali
+...elle Stallone Brown (2007), pp. 4-5.  - Dikli, Semire (2006). "An Overview of Automat...
+                                           ^^^^^
+Line 251, column 10, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Semite; Bemire; Se mire
+...allone Brown (2007), pp. 4-5.  - Dikli, Semire (2006). "An Overview of Automated Scori...
+                                           ^^^^^^
+Line 251, column 24, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...007), pp. 4-5.  - Dikli, Semire (2006). "An Overview of Automated Scoring of Essa...
+                                           ^
+Line 251, column 67, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+... Overview of Automated Scoring of Essays" (http://escholarship.bc.e du/ojs/index....
+                                           ^
+Line 252, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Du; due; do; Dr; EU; duo; dub; dug; DA; dB; nu; DUI; dud; Eu; GU; Ru; dz; VDU; duh; DJ; Au; Cu; D; DC; DD; DE; DH; DI; DP; Di; Dy; Lu; Pu; Tu; U; Wu; bu; cu; d; db; dc; dd; dun; mu; u; d u
+...ng of Essays" (http://escholarship.bc.e du/ojs/index.php/jtla/article/download/164...
+                                           ^^
+Line 252, column 4, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: OAS; ops; obs; ODs; OKs; ohs; oms; OJ; OS; Os
+...of Essays" (http://escholarship.bc.e du/ojs/index.php/jtla/article/download/1640/14...
+                                           ^^^
+Line 252, column 14, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: pop; ft; PhD; HP; pH; PCP; fr; pep; ftp; phi; pip; pup; fps; pap; fop; PP; fa; ff; fl; hp; pp; p hp
+... (http://escholarship.bc.e du/ojs/index.php/jtla/article/download/1640/1489), Journ...
+                                           ^^^
+Line 252, column 18, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...tp://escholarship.bc.e du/ojs/index.php/jtla/article/download/1640/1489), Journal of...
+                                           ^^^^
+Line 253, column 17, Rule ID: WHITESPACE_RULE
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...chnology, Learning, and Assessment, 5(1)  - Ben-Simon, Anat (2007). "Introduction ...
+                                           ^^
+Line 254, column 14, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Ana; Ant; Nat; Gnat; Anal; Ana t
+...ing, and Assessment, 5(1)  - Ben-Simon, Anat (2007). "Introduction to Automated Essa...
+                                           ^^^^
+Line 254, column 27, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...ssment, 5(1)  - Ben-Simon, Anat (2007). "Introduction to Automated Essay Scoring ...
+                                           ^
+Line 254, column 73, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...duction to Automated Essay Scoring (AES)", PowerPoint presentation, Tbilisi, Geor...
+                                           ^
+Line 256, column 5, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Wineries; Winery; Wingtip; Winesap
+..., Tbilisi, Georgia, September 2007. 28. Winerip, Michael (22 April 2012). "Facing a Rob...
+                                           ^^^^^^^
+Line 256, column 39, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+.... 28. Winerip, Michael (22 April 2012). "Facing a Robo-Grader? Just Keep Obfuscat...
+                                           ^
+Line 257, column 14, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...der? Just Keep Obfuscating Mellifluously" (https://www.nytimes.com/2012/04/23/edu...
+                                           ^
+Line 258, column 9, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: HTML; ht ml
+...robo-readers-used-to-grade-test -essays.html). The New York Times. Retrieved 5 April...
+                                           ^^^^
+Line 259, column 5, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...York Times. Retrieved 5 April 2013. 29. "Signatures >> Professionals Against Mach...
+                                           ^
+Line 260, column 11, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...Student Essays In High-Stakes Assessment" (http://humanreaders.org/petition/resul...
+                                           ^
+Line 260, column 74, Rule ID: SENTENCE_WHITESPACE
+Message: Add a space between sentences
+Suggestion:  Org
+...org/petition/results.php). HumanReaders.Org. Retrieved 5 April 2013. 30. Markoff, J...
+                                           ^^^
+Line 262, column 5, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Mark off
+...eaders.Org. Retrieved 5 April 2013. 30. Markoff, John (4 April 2013). "Essay-Grading So...
+                                           ^^^^^^^
+Line 262, column 35, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...2013. 30. Markoff, John (4 April 2013). "Essay-Grading Software Offers Professors...
+                                           ^
+Line 262, column 84, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...ading Software Offers Professors a Break" (https://ww w.nytimes.com/2013/04/05/sc...
+                                           ^
+Line 263, column 3, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: times; natives; notices; anytime; betimes
+...ffers Professors a Break" (https://ww w.nytimes.com/2013/04/05/science/new-test-for-com...
+                                           ^^^^^^^
+Line 265, column 33, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...2013.  - Larson, Leslie (5 April 2013). "Outrage over software that automatically...
+                                           ^
+Line 266, column 58, Rule ID: EN_UNPAIRED_BRACKETS
+Message: Unpaired symbol: ''' seems to be missing
+...rofessors from having to assess students'" (http://www.dailymail.co.uk/news/ arti...
+                                           ^
+Line 266, column 59, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...ofessors from having to assess students'" (http://www.dailymail.co.uk/news/ artic...
+                                           ^
+Line 267, column 17, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...w.dailymail.co.uk/news/ article-2304317/Outrage-software-automatically-grades-college-essays-spare-professors-havin g-assess-students-work.html). Daily Mai...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Line 268, column 24, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: HTML; ht ml
+...professors-havin g-assess-students-work.html). Daily Mail. Retrieved 5 April 2013.  ...
+                                           ^^^^
+Line 269, column 34, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...013.  - Garner, Richard (5 April 2013). "Professors angry over essays marked by c...
+                                           ^
+Line 269, column 82, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...ors angry over essays marked by computer" (https:// www.independent.co.uk/news/uk...
+                                           ^
+Line 271, column 13, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: HTML; ht ml
+...over-essays-marked-by-compu ter-8562276.html). The Independent. Retrieved 5 April 20...
+                                           ^^^^
+Line 272, column 5, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Corsican; Cardigan
+...ndependent. Retrieved 5 April 2013. 31. Corrigan, Paul T. (25 March 2013). "Petition Aga...
+                                           ^^^^^^^^
+Line 272, column 40, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+... 31. Corrigan, Paul T. (25 March 2013). "Petition Against Machine Scoring Essays,...
+                                           ^
+Line 273, column 14, Rule ID: SENTENCE_WHITESPACE
+Message: Add a space between sentences
+Suggestion:  Org
+...st Machine Scoring Essays, HumanReaders.Org" (http://teachingandlearninginhighered....
+                                           ^^^
+Line 273, column 17, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...Machine Scoring Essays, HumanReaders.Org" (http://teachingandlearninginhighered.o...
+                                           ^
+Line 274, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+...ered.org/2013/03/25/petition-against-ma chine-scoring-essays-humanreaders-org/). Teaching & Learning in Higher Ed. Re...
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Line 276, column 3, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Coffee; Baffle; Raffle; Waffle; Gaffe; Gaffes; Toffee; Gaffer; Jaycee; Gaffed; Faffed; Naffer
+...n Higher Ed. Retrieved 5 April 2013.  - Jaffee, Robert David (5 April 2013). "Computer...
+                                           ^^^^^^
+Line 276, column 39, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+... - Jaffee, Robert David (5 April 2013). "Computers Cannot Read, Write or Grade Pa...
+                                           ^
+Line 276, column 84, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...uters Cannot Read, Write or Grade Papers" (htt p://www.huffingtonpost.com/robert-...
+                                           ^
+Line 276, column 87, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: hit; hot; hat; hut; Hts; HST; HT; HTTP; hgt; ht; ht t
+...rs Cannot Read, Write or Grade Papers" (htt p://www.huffingtonpost.com/robert-david...
+                                           ^^^
+Line 278, column 1, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Huntington
+.../computers-cannot-read_b_3018372.html). Huffington Post. Retrieved 5 April 2013. 32. "Prof...
+                                           ^^^^^^^^^^
+Line 279, column 5, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...ngton Post. Retrieved 5 April 2013. 32. "Professionals Against Machine Scoring Of...
+                                           ^
+Line 279, column 87, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...Student Essays In High-Stakes Assessment" (htt p://humanreaders.org/petition/). H...
+                                           ^
+Line 279, column 90, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: hit; hot; hat; hut; Hts; HST; HT; HTTP; hgt; ht; ht t
+...dent Essays In High-Stakes Assessment" (htt p://humanreaders.org/petition/). HumanR...
+                                           ^^^
+Line 280, column 5, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: human readers
+...ays In High-Stakes Assessment" (htt p://humanreaders.org/petition/). HumanReaders.Org. Retri...
+                                           ^^^^^^^^^^^^
+Line 280, column 47, Rule ID: SENTENCE_WHITESPACE
+Message: Add a space between sentences
+Suggestion:  Org
+...manreaders.org/petition/). HumanReaders.Org. Retrieved 5 April 2013. 33. "Research ...
+                                           ^^^
+Line 281, column 5, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...eaders.Org. Retrieved 5 April 2013. 33. "Research Findings >> Professionals Again...
+                                           ^
+Line 282, column 18, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...tudent Essays In High- Stakes Assessment" (http://humanreaders.org/petition/resea...
+                                           ^
+Line 283, column 14, Rule ID: SENTENCE_WHITESPACE
+Message: Add a space between sentences
+Suggestion:  Org
+...on/research_findings.htm). HumanReaders.Org. Retrieved 5 April 2013.  - "Works Cite...
+                                           ^^^
+Line 284, column 3, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...Readers.Org. Retrieved 5 April 2013.  - "Works Cited >> Professionals Against Mac...
+                                           ^
+Line 285, column 11, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...Student Essays In High-Stakes Assessment" (http://humanreaders.org/petition/works...
+                                           ^
+Line 285, column 78, Rule ID: SENTENCE_WHITESPACE
+Message: Add a space between sentences
+Suggestion:  Org
+...petition/works_cited.htm). HumanReaders.Org. Retrieved 5 April 2013. 34. "Assessmen...
+                                           ^^^
+Line 287, column 5, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...eaders.Org. Retrieved 5 April 2013. 34. "Assessment Technologies" (http://www.mea...
+                                           ^
+Line 287, column 29, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...April 2013. 34. "Assessment Technologies" (http://www.measurementinc.com/products...
+                                           ^
+Line 288, column 31, Rule ID: DOUBLE_PUNCTUATION
+Message: Two consecutive dots
+Suggestion: .
+...omated-es say-scoring), Measurement, Inc.. Retrieved from "https://en.wikipedia.or...
+                                           ^^
+Line 289, column 16, Rule ID: EN_QUOTES[1]
+Message: Use a smart opening quote here: '“'.
+Suggestion: “
+...ing), Measurement, Inc.. Retrieved from "https://en.wikipedia.org/w/index.php?tit...
+                                           ^
+Line 289, column 99, Rule ID: EN_QUOTES[2]
+Message: Use a smart closing quote here: '”'.
+Suggestion: ”
+...=Automated_essay_scoring&oldid=950411546" This page was last edited on 11 April 2...
+                                           ^
+Line 292, column 57, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Wikipedia
+...to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikime...
+                                           ^^^^^^^^^^
+Line 292, column 101, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found
+Suggestion: Wikipedia
+...pedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organiza...
+                                           ^^^^^^^^^

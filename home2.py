@@ -259,7 +259,8 @@ class ListFrame(tk.Frame):
 
             # set style and size of font
             # that you want in the pdf
-            pdf.set_font("Arial", size=10)
+            pdf.add_font('DejaVu', '', '/AEG/styles/font/DejaVuSansCondensed.ttf', uni=True)
+            pdf.set_font('DejaVu', '', 10)
             tot = 0
             regnum=""
             topicname=""
